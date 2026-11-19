@@ -50,7 +50,7 @@
     {
       "id": "wooter",
       "fit": "Coaches and league organizers who want to make the jersey and see what it costs the same night.",
-      "lacks": "Three to four weeks from approval to delivery."
+      "lacks": "Three weeks from approval to delivery."
     },
     {
       "id": "champro",
@@ -114,7 +114,7 @@
     },
     {
       "q": "How long until delivery?",
-      "a": "Three to four weeks after you approve the design at Wooter, with rush production offered."
+      "a": "Three weeks after you approve the design at Wooter, with rush production offered."
     }
   ],
   "related": [

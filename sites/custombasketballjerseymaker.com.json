@@ -15,7 +15,7 @@
     {
       "id": "wooter",
       "fit": "Coaches and league organizers who want to build a full uniform and check the price before asking the team.",
-      "lacks": "It makes real, made-to-order jerseys, so delivery takes three to four weeks."
+      "lacks": "It makes real, made-to-order jerseys, so delivery takes three weeks."
     },
     {
       "id": "boombah",
@@ -84,7 +84,7 @@
     },
     {
       "q": "How long until the jerseys arrive?",
-      "a": "Three to four weeks from Wooter. Boombah's basketball page says three weeks standard. Custom Ink is about two weeks on stock jerseys."
+      "a": "Three weeks from Wooter. Boombah's basketball page says three weeks standard. Custom Ink is about two weeks on stock jerseys."
     }
   ],
   "related": [

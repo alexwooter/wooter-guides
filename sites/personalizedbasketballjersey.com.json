@@ -19,7 +19,7 @@
     {
       "id": "wooter",
       "fit": "One player, a gift, or a whole team that wants each jersey to carry its own name and number.",
-      "lacks": "Made to order in three to four weeks. A single jersey costs much more per piece than a team order.",
+      "lacks": "Made to order in three weeks. A single jersey costs much more per piece than a team order.",
       "note": "Names and numbers go in through the roster step, one line per player, with a size and quantity for each."
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "q": "How long does it take?",
-      "a": "Wooter's product pages quote three to four weeks from design approval, and rush production is available. Custom Ink's standard on stock jerseys is about two weeks."
+      "a": "Wooter quotes three weeks from design approval, and rush production is available. Custom Ink's standard on stock jerseys is about two weeks."
     }
   ],
   "related": [

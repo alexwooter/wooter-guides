@@ -31,7 +31,7 @@
     },
     {
       "name": "Know your date",
-      "text": "Count back four weeks from the first game, plus time to approve."
+      "text": "Count back three weeks from the first game, plus time to approve."
     },
     {
       "name": "Pick the sport and style",
@@ -50,7 +50,7 @@
     {
       "id": "wooter",
       "fit": "First-time organizers who want a creator that covers every sport and ends in a checkout.",
-      "lacks": "The creator is instant. The jerseys arrive three to four weeks after approval."
+      "lacks": "The creator is instant. The jerseys arrive three weeks after approval."
     },
     {
       "id": "boombah",
@@ -119,7 +119,7 @@
     },
     {
       "q": "How long until the jerseys arrive?",
-      "a": "Plan on three to four weeks from the day you approve the proof. Wooter offers rush production if you are short on time."
+      "a": "Plan on three weeks from the day you approve the proof. Wooter offers rush production if you are short on time."
     }
   ],
   "related": [

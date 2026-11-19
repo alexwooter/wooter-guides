@@ -19,7 +19,7 @@
     {
       "id": "wooter",
       "fit": "Teams that want each player's uniform right the first time: name, number, jersey size and pants size.",
-      "lacks": "Three to four weeks from approval. A late roster change means a second order."
+      "lacks": "Three weeks from approval. A late roster change means a second order."
     },
     {
       "id": "boombah",
@@ -88,7 +88,7 @@
     },
     {
       "q": "How long does it take?",
-      "a": "Wooter's product pages quote three to four weeks from design approval, and rush production is available."
+      "a": "Wooter quotes three weeks from design approval, and rush production is available."
     }
   ],
   "related": [
