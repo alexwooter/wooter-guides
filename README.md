@@ -1,0 +1,28 @@
+# Wooter guides
+
+One codebase that serves a separate page on each exact-match domain in `data/domains.txt`. The server reads the request's hostname and serves `dist/<domain>/`. Adding a domain is adding a JSON file in `sites/`. Forked from `alexwooter/best-guides`; PLAYBOOK.md is the full runbook.
+
+## Status (18 Nov 2026)
+
+- Search terms: 479 ranked from Google Ads Keyword Planner (wooterapparel.com account, US). GoDaddy bulk check the same day: 315 open at standard price, 54 premium, 110 taken.
+- First batch: 95 standard-price names, listed in `research/first-95.csv`.
+- Pending before pages are written: bought list, Wooter legal entity name (publisher.json carries the site footer's "Wooter Apparel"), one production time, the competitor set.
+
+## Page types
+
+- Buyer's guide: ranked, Wooter first, alternatives described from their own sites.
+- Design tool: opens the Wooter builder for that sport.
+- Tool / info: working generator or size chart on the page.
+- Local and fundraising guides.
+
+One real page per intent. Variant domains 301 to the closest page.
+
+## Rules
+
+- Publisher disclosure in every footer. No other company's trademark in a domain.
+- Competitor facts come from their own public pages, with a `verified` date. Prices only when verified.
+- Related links only to pages that are built.
+
+## Facts to refresh
+
+`data/products.json` is the single place for Wooter's and competitors' facts. Rebuild and redeploy; every page updates.
