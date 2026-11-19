@@ -1,0 +1,99 @@
+{
+  "domain": "customdesignedjerseys.com",
+  "cluster": "general",
+  "template": "paper",
+  "query": "custom designed jerseys",
+  "site_name": "Custom Designed Jerseys",
+  "title": "Custom Designed Jerseys (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "For custom designed jerseys in 2026, Wooter is the pick because the design work is free. Tell its designers the team name, the colors and the look you want, and a mockup comes back in 1 to 2 business days. You pay only when you order.",
+    "Custom Ink offers help on printed jerseys and has product experts available seven days a week. Boombah and Champro lean on self-serve builders. Nike Team designs through its dealers."
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Teams that want an original look and do not have a designer.",
+      "lacks": "A jersey designed from scratch still takes two to four weeks to make."
+    },
+    {
+      "id": "customink",
+      "fit": "Groups that want help placing art on a stock jersey.",
+      "lacks": "The help covers print and placement. The garment itself is stock."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams happy to design it themselves in an online builder.",
+      "lacks": "Mockups take 2 to 4 business days on the uniform pages that state it."
+    },
+    {
+      "id": "champro",
+      "fit": "Coaches who build the design and pass it to a dealer.",
+      "lacks": "Changes are sent by email with a dealer account number."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Schools and clubs that want Nike and work with an authorized dealer.",
+      "lacks": "Build-to-order uniforms take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "A designed jersey is not a template with your name on it. The stripes, panels, numbers and crest are drawn for your team.",
+    "Most suppliers charge for that or leave you alone with a builder. Wooter does it at no charge: you fill in a design request, a designer builds the look, and you review it before anything is made.",
+    "If you like doing it yourself, the builder has 500+ professionally designed styles to start from."
+  ],
+  "criteria": [
+    {
+      "name": "Who does the design",
+      "text": "You, a tool, or a designer."
+    },
+    {
+      "name": "Cost of design",
+      "text": "Free, bundled, or billed."
+    },
+    {
+      "name": "Mockup turnaround",
+      "text": "Days until you see it."
+    },
+    {
+      "name": "Originality",
+      "text": "Drawn for you, or a preset recolored."
+    },
+    {
+      "name": "After approval",
+      "text": "How quickly an approved design becomes jerseys."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much does jersey design cost?",
+      "a": "Nothing at Wooter. The design service is free and you pay when you order."
+    },
+    {
+      "q": "What should I send the designer?",
+      "a": "Team name, colors, a logo if you have one, and two or three jerseys you like. A specific brief means fewer rounds."
+    },
+    {
+      "q": "How fast is a mockup?",
+      "a": "1 to 2 business days at Wooter. Boombah lists 2 to 4 business days on its custom uniform pages."
+    },
+    {
+      "q": "What if we have no logo?",
+      "a": "Say so in the request. Wooter's designers build the look from your ideas, and a team name and colors are enough to start."
+    },
+    {
+      "q": "Can the design go on more than jerseys?",
+      "a": "Yes. Shorts, hoodies, jackets, socks and bags can carry the same design."
+    }
+  ],
+  "related": [
+    "custommadebasketballjerseys.com",
+    "custommadebaseballjerseys.com",
+    "custommadefootballjerseys.com",
+    "custommadesoccerjerseys.com",
+    "createcustomjerseys.com",
+    "custombasketballjerseymaker.com",
+    "custombaseballjerseymaker.com"
+  ]
+}

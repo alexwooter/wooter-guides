@@ -2,15 +2,79 @@
   "wooter": {
     "name": "Wooter",
     "url": "https://wooter.com",
-    "builder_url": "https://wooter.com",
-    "design_url": "https://wooter.com/design-request/products",
     "type": "Custom team uniforms and apparel, made to order",
-    "what": "Fully custom jerseys, uniforms and team apparel for basketball, football, flag football and 7v7, soccer, baseball, softball, volleyball, lacrosse, cheer, tennis and wrestling. Start from 500+ styles in the online builder and change colors, logo, team name and roster with a live preview, or hand it to Wooter's designers at no charge.",
-    "fit": "Teams, leagues, schools and coaches who want a full matching set, jerseys through bags, designed and ordered in one place.",
-    "pricing": "Team pricing is shown upfront in the builder. Design is free and you pay only when you order.",
-    "turnaround": "Designs come back in 1 to 2 business days. PRODUCTION TIME PENDING: wooter.com states both 2 to 3 weeks and two to four weeks.",
+    "what": "Fully custom jerseys, uniforms and team apparel for basketball, football, flag football and 7v7, soccer, baseball, softball, volleyball, lacrosse, cheer, tennis and wrestling. Start from 500+ styles in the online builder and change the colors, logo, team name and roster with a live preview, or have Wooter's designers do it at no charge.",
+    "fit": "Teams, leagues, schools and coaches who want a full matching set designed and ordered in one place.",
+    "pricing": "Team pricing shows upfront in the builder. Design is free and you pay only when you order.",
+    "turnaround": "Designs in 1 to 2 business days. Two to four weeks from order to delivery.",
+    "pick": "Design it free, see the price as you build, order the whole set in one place.",
     "proof": "18,000+ teams, 100,000+ athletes and 2,000+ five-star reviews, per wooter.com.",
-    "sources": ["https://wooter.com/", "https://wooter.com/search/custom-apparel"],
+    "sources": [
+      "https://wooter.com/",
+      "https://wooter.com/search/custom-apparel"
+    ],
+    "verified": "2026-11-18",
+    "open_questions": "wooter.com states both a 2 to 3 week turnaround and two to four weeks. Pages use two to four until Alex confirms."
+  },
+  "boombah": {
+    "name": "Boombah",
+    "url": "https://www.boombah.com",
+    "type": "Sublimated custom uniforms, direct from the maker",
+    "what": "Boombah makes fully sublimated custom uniforms to order in its own factories and sells them direct through online builders. Its range is deepest in baseball and fastpitch, with basketball and volleyball alongside.",
+    "fit": "Teams that want to build a sublimated uniform online and buy straight from the maker.",
+    "pricing": "Priced per garment with quantity breaks. Its sublimation pages advertise no setup fees, no design fees and no minimum.",
+    "turnaround": "Its pages quote a two week or three week standard lead time depending on the product, with rush for a fee.",
+    "sources": [
+      "https://www.boombah.com/us/uniforms/basketball.html",
+      "https://www.boombah.com/us/mens/uniforms/custom-baseball-uniforms.html",
+      "https://www.boombah.com/us/custom/boombah-sublimation.html",
+      "https://checkout.boombah.com/us/custom/custom-uniforms-mens.html"
+    ],
+    "verified": "2026-11-18"
+  },
+  "customink": {
+    "name": "Custom Ink",
+    "url": "https://www.customink.com",
+    "type": "Custom printed apparel for groups",
+    "what": "Custom Ink decorates a large catalog of stock apparel, team jerseys included, with your design, names and numbers. A group order form lets each player pick a size, and product experts are available seven days a week.",
+    "fit": "Small groups that want a printed jersey quickly and without a large minimum.",
+    "pricing": "Per-item pricing that falls as quantity rises. Standard shipping is free.",
+    "turnaround": "About two weeks standard, with rush options at extra cost.",
+    "sources": [
+      "https://www.customink.com/products/groups-collections/team-jerseys/425",
+      "https://www.customink.com/products/activewear/44",
+      "https://www.customink.com/blog/how-much-do-custom-jerseys-cost/"
+    ],
+    "verified": "2026-11-18"
+  },
+  "champro": {
+    "name": "Champro",
+    "url": "https://www.champrosports.com",
+    "type": "Team uniforms sold through dealers",
+    "what": "Champro's Juice line is cut-and-sew, fully sublimated uniforms, and Splash is a lower-cost sublimation on finished garments. Designs are made in its Uniform Builder and orders go in through a Champro dealer account.",
+    "fit": "Programs that already buy through a local team dealer.",
+    "pricing": "Set by the dealer. No public price list on the builder.",
+    "turnaround": "Lead times vary with order volume and are confirmed after artwork approval.",
+    "sources": [
+      "https://ub.champrosports.com/selectuniform.aspx",
+      "https://shop.champrosports.com/topic/juice",
+      "https://shop.champrosports.com/topic/splash",
+      "https://champrosports.com/topic/custom-builder"
+    ],
+    "verified": "2026-11-18"
+  },
+  "niketeam": {
+    "name": "Nike Team",
+    "url": "https://niketeam.nike.com/en/en_US/nts/",
+    "type": "Uniforms sold through authorized Nike dealers",
+    "what": "Nike Team offers build-to-order uniforms designed in its online builder and placed through an authorized Nike Team dealer, plus stock uniforms that can be personalized with names, numbers or artwork.",
+    "fit": "Schools and clubs that want Nike and have a dealer relationship.",
+    "pricing": "Quoted by the dealer.",
+    "turnaround": "Build-to-order uniforms deliver in 30, 60 or 90 days. Personalized stock uniforms arrive within three weeks.",
+    "sources": [
+      "https://niketeam.nike.com/en/en_US/nts/",
+      "https://niketeam.nike.com/en/en_US/nts/find_dealer"
+    ],
     "verified": "2026-11-18"
   }
 }

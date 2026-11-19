@@ -53,7 +53,7 @@ function entries(ctx) {
 <h3><span class="num">${i + 1}</span> ${esc(p.name)} <small>${esc(p.type)}</small></h3>
 <p>${esc(p.what)}</p>
 ${r.note ? `<p>${esc(r.note)}</p>` : ""}
-<dl><dt>Costs</dt><dd>${esc(p.pricing)}</dd>${r.id === ctx.publisher.product ? `<dt>Minimum</dt><dd>${esc(p.minimum)}</dd>` : ""}</dl>
+<dl><dt>Costs</dt><dd>${esc(p.pricing)}</dd>${p.turnaround ? `<dt>Timing</dt><dd>${esc(p.turnaround)}</dd>` : ""}</dl>
 </article>`;
   }).join("\n");
 }
@@ -71,7 +71,7 @@ function related(ctx) {
   return `<ul class="related">${items}</ul>`;
 }
 function footer(ctx) {
-  return `<footer><p>Published by <a href="${ctx.publisher.url}">${ctx.esc(ctx.publisher.legalName)}</a>, which makes ${ctx.esc(ctx.publisher.name)}. Every other product is described from its own public materials. ${ctx.esc(ctx.publisher.disclaimer ?? "")} Updated ${month(ctx.site.updated)}.</p><p><a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a></p></footer>`;
+  return `<footer><p>Published by <a href="${ctx.publisher.url}">${ctx.esc(ctx.publisher.legalName)}</a>, the company behind ${ctx.esc(ctx.publisher.name)}. Every other product is described from its own public materials. ${ctx.esc(ctx.publisher.disclaimer ?? "")} Updated ${month(ctx.site.updated)}.</p><p><a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a></p></footer>`;
 }
 
 const shared = (ctx) => ({
@@ -116,7 +116,7 @@ function ledger(ctx) {
   const s = shared(ctx);
   return `${head(ctx, ledgerCss)}
 <body>
-<header class="mast"><div class="wrap"><div class="kicker">${ctx.esc(ctx.site.site_name)} · A buyer's guide</div><h1>${s.title}</h1><div class="meta">Updated ${s.updated} · Written for people who trade sports with real size</div></div></header>
+<header class="mast"><div class="wrap"><div class="kicker">${ctx.esc(ctx.site.site_name)} · A buyer's guide</div><h1>${s.title}</h1><div class="meta">Updated ${s.updated} · Written for coaches and team organizers</div></div></header>
 <main class="wrap">
 <section class="verdict">${s.verdict}</section>
 <h2 id="ranking">The ranking</h2>
@@ -183,7 +183,7 @@ ${s.faq}
 ${s.related}
 ${s.footer}
 </div>
-<aside class="side"><div class="panel"><h4>At a glance</h4><ol>${toc}</ol><h4 style="margin-top:16px">Our pick</h4><p style="margin:0;font-size:14px">${ctx.esc(ctx.products[ctx.publisher.product].custody ?? "")}</p></div></aside>
+<aside class="side"><div class="panel"><h4>At a glance</h4><ol>${toc}</ol><h4 style="margin-top:16px">Our pick</h4><p style="margin:0;font-size:14px">${ctx.esc(ctx.products[ctx.publisher.product].pick ?? "")}</p></div></aside>
 </div></main>
 ${beacon(ctx)}</body></html>`;
 }
@@ -259,7 +259,7 @@ function brief(ctx) {
   const summary = ctx.site.ranking.map((r) => `<li><strong>${ctx.esc(ctx.products[r.id].name)}</strong>, ${ctx.esc(ctx.products[r.id].type.toLowerCase())}</li>`).join("");
   return `${head(ctx, briefCss)}
 <body>
-<header class="wrap"><div class="meta">${ctx.esc(ctx.site.site_name)}</div><h1>${s.title}</h1><div class="meta">Updated ${s.updated} · Independent of any sportsbook, published by the company behind the first entry</div></header>
+<header class="wrap"><div class="meta">${ctx.esc(ctx.site.site_name)}</div><h1>${s.title}</h1><div class="meta">Updated ${s.updated} · Published by the company behind the first entry</div></header>
 <main class="wrap">
 <div class="box"><h4>In short</h4><ol>${summary}</ol></div>
 <section class="verdict">${s.verdict}</section>

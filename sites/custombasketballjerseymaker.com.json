@@ -1,0 +1,99 @@
+{
+  "domain": "custombasketballjerseymaker.com",
+  "cluster": "basketball",
+  "template": "brief",
+  "query": "custom basketball jersey maker",
+  "site_name": "Custom Basketball Jersey Maker",
+  "title": "Custom Basketball Jersey Maker (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The best custom basketball jersey maker in 2026 is Wooter's builder. Choose a basketball style, recolor it, drop in your logo and team name, and the jersey renders live with the price beside it.",
+    "Boombah's builder is the closest rival and handles reversible sets. Custom Ink's Design Lab is the simple choice for a printed jersey. Champro's and Nike Team's builders produce a design that a dealer then orders."
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Coaches and league organizers who want to build a full uniform and check the price before asking the team.",
+      "lacks": "It makes real, made-to-order jerseys, so delivery takes two to four weeks."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that want reversible jerseys and shorts from an online builder.",
+      "lacks": "Three weeks standard on its basketball page. A one-week rush is offered."
+    },
+    {
+      "id": "customink",
+      "fit": "Players making a few printed jerseys quickly, often with no minimum.",
+      "lacks": "A design tool for print on stock jerseys, not a uniform builder."
+    },
+    {
+      "id": "champro",
+      "fit": "Coaches who buy through a dealer and want sublimated Juice uniforms.",
+      "lacks": "The maker ends in a saved design or a dealer order, not a cart."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Schools and clubs that want Nike and work with an authorized dealer.",
+      "lacks": "Build-to-order uniforms take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "A jersey maker is only useful if what you see is what gets made. Look for three things: a live preview, a price that updates, and a roster step that takes names, numbers and sizes.",
+    "Wooter's builder has all three and starts from 500+ styles. When the jersey is done, the roster copies to shorts and warmups so the set matches.",
+    "If the maker is not getting you there, switch to the free design service and a designer finishes it in 1 to 2 business days."
+  ],
+  "criteria": [
+    {
+      "name": "Live preview",
+      "text": "The jersey updates as you edit."
+    },
+    {
+      "name": "Price in the tool",
+      "text": "The cost is on screen, not in a quote email."
+    },
+    {
+      "name": "Roster step",
+      "text": "Names, numbers and sizes entered per player."
+    },
+    {
+      "name": "Shorts and reversibles",
+      "text": "Whether the maker covers the rest of the uniform."
+    },
+    {
+      "name": "Checkout or dealer",
+      "text": "Who actually places the order."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is there a free basketball jersey maker?",
+      "a": "Yes. Wooter's builder is free to use and so is its design service. You pay when you order."
+    },
+    {
+      "q": "Can I make just one jersey?",
+      "a": "Sometimes. Minimums depend on the product. Custom Ink and Boombah advertise no minimum on many items, and Wooter lists minimums by product."
+    },
+    {
+      "q": "Can I upload my own logo?",
+      "a": "Yes. Wooter's builder takes your logo, team name and roster."
+    },
+    {
+      "q": "Does the maker do shorts too?",
+      "a": "Wooter sells basketball uniforms as sets, and Boombah's builder covers jerseys and shorts."
+    },
+    {
+      "q": "How long until the jerseys arrive?",
+      "a": "Two to four weeks from Wooter. Boombah's basketball page says three weeks standard. Custom Ink is about two weeks on stock jerseys."
+    }
+  ],
+  "related": [
+    "custommadebasketballjerseys.com",
+    "custommadebaseballjerseys.com",
+    "custommadefootballjerseys.com",
+    "custommadesoccerjerseys.com",
+    "createcustomjerseys.com",
+    "customdesignedjerseys.com",
+    "custombaseballjerseymaker.com"
+  ]
+}

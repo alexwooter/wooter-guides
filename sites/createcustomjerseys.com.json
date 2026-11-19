@@ -1,0 +1,99 @@
+{
+  "domain": "createcustomjerseys.com",
+  "cluster": "general",
+  "template": "brief",
+  "query": "create custom jerseys",
+  "site_name": "Create Custom Jerseys",
+  "title": "Create Custom Jerseys (2026)",
+  "updated": "2026-11-18",
+  "published": "2026-11-18",
+  "verdict": [
+    "The easiest way to create custom jerseys in 2026 is Wooter's builder. Pick a sport and a style, change the colors, logo and team name, add the roster, and the preview and price update as you go.",
+    "If you would rather not design at all, Wooter's designers do it free. Custom Ink's Design Lab fits a printed, tee-style jersey. Boombah's builders are strong for baseball, softball and basketball. Champro and Nike Team have builders too, but the order goes through a dealer."
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Anyone who wants to design a full team set online and see the price before committing.",
+      "lacks": "The design is instant. Delivery is not: production takes two to four weeks."
+    },
+    {
+      "id": "customink",
+      "fit": "Groups creating a printed jersey from a template or an uploaded logo.",
+      "lacks": "You are decorating a stock garment, so the cut and panels are fixed."
+    },
+    {
+      "id": "boombah",
+      "fit": "Baseball, softball and basketball teams that want to build a sublimated uniform online.",
+      "lacks": "Lead times and minimums differ from page to page on its site."
+    },
+    {
+      "id": "champro",
+      "fit": "Coaches who want to build a design and hand it to their dealer.",
+      "lacks": "The builder saves a design. A dealer account places the order."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Programs designing a Nike uniform with their dealer.",
+      "lacks": "Build-to-order uniforms take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "Creating a jersey comes down to four decisions: the sport and cut, the design, the roster, and the date you need it. A good builder walks you through them in that order.",
+    "On Wooter you start from 500+ styles, edit the colors and add your logo, then enter each player's name, number, size and quantity. Rosters copy between products, so shorts and warmups take a minute.",
+    "Stuck on the design? Send your ideas and a Wooter designer builds it at no charge, usually in 1 to 2 business days. You pay only when you place the order."
+  ],
+  "criteria": [
+    {
+      "name": "Live preview",
+      "text": "You see the jersey change as you edit."
+    },
+    {
+      "name": "Price while you design",
+      "text": "No quote request to find out the cost."
+    },
+    {
+      "name": "Roster handling",
+      "text": "Names, numbers and sizes per player."
+    },
+    {
+      "name": "Free design help",
+      "text": "A designer who takes over when you are stuck."
+    },
+    {
+      "name": "Who places the order",
+      "text": "You at a checkout, or a dealer on your behalf."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can I create a jersey with no design skills?",
+      "a": "Yes. Start from a finished style and change the colors, or skip the builder and ask Wooter's designers to do it for free."
+    },
+    {
+      "q": "What file do I need for my logo?",
+      "a": "A vector file is best. A clean PNG is enough to start with."
+    },
+    {
+      "q": "How many jerseys do I have to order?",
+      "a": "It depends on the product. Wooter's catalog lists minimums by item, some starting at one. Check the product page before planning a small order."
+    },
+    {
+      "q": "How long after I design it do the jerseys arrive?",
+      "a": "Two to four weeks from order to delivery at Wooter."
+    },
+    {
+      "q": "Can one design go on every item?",
+      "a": "Yes. On Wooter the same design can run across jerseys, shorts, hoodies, jackets and bags."
+    }
+  ],
+  "related": [
+    "custommadebasketballjerseys.com",
+    "custommadebaseballjerseys.com",
+    "custommadefootballjerseys.com",
+    "custommadesoccerjerseys.com",
+    "customdesignedjerseys.com",
+    "custombasketballjerseymaker.com",
+    "custombaseballjerseymaker.com"
+  ]
+}
