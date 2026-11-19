@@ -1,7 +1,7 @@
 # Baseball and softball guides and design pages. Run from the repo root: python3 tools/batch3_diamond.py
 from lib import *
 BS, SB = U["baseball"], U["softball"]
-LEAD = "Three weeks after you approve the design at Wooter, with rush production offered."
+LEAD = "Three weeks on average after you approve the design at Wooter. Rush turnaround in one to two weeks costs extra."
 
 use("baseball")
 page("custommadebaseballuniforms.com", "baseball", "terminal", "custom made baseball uniforms",

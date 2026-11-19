@@ -4,7 +4,7 @@ from lib import *
 FREE_DESIGN = "Wooter's design service is free. Send the name and your colors, and a designer returns a mockup in 1 to 2 business days."
 def names(domain, cluster, query, sport, intro, gen_a, gen_b, lists, pick, faq, cta_url):
     page(domain, cluster, "field", query, intro,
-     why=["A name is settled when it is on a jersey. " + FREE_DESIGN, "Wooter makes " + sport + " uniforms to order, with a minimum of one on most items and delivery three weeks after you approve the design."],
+     why=["A name is settled when it is on a jersey. " + FREE_DESIGN, "Wooter makes " + sport + " uniforms to order, with a minimum of one on most items and delivery in about three weeks after you approve the design, or one to two weeks with paid rush."],
      faq=faq, cta=(cta_url, "Put the name on a jersey"), pub_title="Got a name? Put it on a jersey",
      generator={"label": "Team name generator", "button": "Give me another", "a": gen_a, "b": gen_b},
      sections=[{"h": h, "p": [p] if p else [], "list": l, "cols": True} for h, p, l in lists] + [{"h": "How to pick one", "list": pick}],

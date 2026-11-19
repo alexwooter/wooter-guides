@@ -39,14 +39,14 @@
     },
     {
       "name": "Approve and order",
-      "text": "Production starts after approval. Count three weeks back from your first game."
+      "text": "Production starts after approval. Count about three weeks back from your first game."
     }
   ],
   "ranking": [
     {
       "id": "wooter",
       "fit": "Coaches and league directors starting from nothing but a team name and two colors.",
-      "lacks": "Three weeks from approval to delivery, so a request made the week before tip-off is too late.",
+      "lacks": "About three weeks from approval to delivery, so a request made the week of tip-off is too late.",
       "note": "The design request asks what you want to make, your colors and any reference images. Revisions happen before you pay."
     },
     {
@@ -73,7 +73,7 @@
   "why": [
     "Creating a uniform from scratch has three stages: a brief, a mockup and a roster. Teams that struggle usually skip the brief and argue over the mockup.",
     "Wooter's request form is the brief. A designer turns it into a mockup at no charge, and you ask for changes until it is right. Then the roster goes in: each player's name, number, size and quantity.",
-    "From there it is production. Wooter quotes three weeks from design approval, with rush options."
+    "From there it is production. Wooter averages three weeks from design approval, and a paid rush takes one to two."
   ],
   "criteria": [
     {

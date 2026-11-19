@@ -19,7 +19,7 @@
     {
       "id": "wooter",
       "fit": "Teams that want jersey and pants priced and ordered together.",
-      "lacks": "Made to order in three weeks."
+      "lacks": "Made to order in about three weeks."
     },
     {
       "id": "boombah",
@@ -88,7 +88,7 @@
     },
     {
       "q": "How long do packages take?",
-      "a": "Three weeks after you approve the design at Wooter, with rush production offered."
+      "a": "Three weeks on average after you approve the design at Wooter. Rush turnaround in one to two weeks costs extra."
     }
   ],
   "related": [

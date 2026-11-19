@@ -50,7 +50,7 @@
     {
       "id": "wooter",
       "fit": "Coaches who want to design jersey and shorts together and see the price while they do it.",
-      "lacks": "The design is quick. Production still takes three weeks after approval."
+      "lacks": "The design is quick. Production still takes about three weeks after approval."
     },
     {
       "id": "boombah",
@@ -119,7 +119,7 @@
     },
     {
       "q": "How long after the design is done?",
-      "a": "Plan on three weeks from the day you approve the proof. Wooter offers rush production if you are short on time."
+      "a": "Plan on about three weeks from the day you approve the proof. If you are short on time, Wooter's paid rush takes one to two weeks."
     }
   ],
   "related": [

@@ -114,11 +114,11 @@ MINV = [MIN,
  "No real minimum. Most Wooter product pages allow an order of one, though the per-piece price is far lower at team quantity.",
  "Most Wooter products can be ordered one at a time. The price breakdown on each page shows how the cost falls as you add pieces.",
  "Wooter lists a minimum quantity of one on most products. Small orders are welcome and cost more per piece than large ones."]
-LEAD0 = "Three weeks after you approve the design at Wooter, with rush production offered."
+LEAD0 = "Three weeks on average after you approve the design at Wooter. Rush turnaround in one to two weeks costs extra."
 LEADV = [LEAD0,
- "Wooter quotes three weeks from design approval, and rush production is available.",
- "Plan on three weeks from the day you approve the proof. Wooter offers rush production if you are short on time.",
- "About three weeks once the design is approved. Ask Wooter about rush production for a tighter date."]
+ "Wooter averages three weeks from design approval. A one to two week rush is available for an added fee.",
+ "Plan on about three weeks from the day you approve the proof. If you are short on time, Wooter's paid rush takes one to two weeks.",
+ "About three weeks once the design is approved. For a tighter date, Wooter offers a one to two week rush at extra cost."]
 def vary(x):
     # The two stock answers appear on many pages. Rotate the wording by domain so pages do not share sentences.
     h = sum(map(ord, x["domain"]))

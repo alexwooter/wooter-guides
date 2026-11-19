@@ -46,7 +46,7 @@
     {
       "id": "wooter",
       "fit": "Organizers who want one builder for all their teams, with nothing hidden behind a quote.",
-      "lacks": "It builds made-to-order jerseys, so delivery is three weeks after approval."
+      "lacks": "It builds made-to-order jerseys, so delivery is about three weeks after approval."
     },
     {
       "id": "boombah",
@@ -115,7 +115,7 @@
     },
     {
       "q": "How long from builder to delivery?",
-      "a": "Three weeks after you approve the design at Wooter, with rush production offered."
+      "a": "Three weeks on average after you approve the design at Wooter. Rush turnaround in one to two weeks costs extra."
     }
   ],
   "related": [

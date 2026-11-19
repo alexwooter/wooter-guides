@@ -20,7 +20,7 @@
       "id": "wooter",
       "fit": "One wrestler, a club ordering a few, or a team that wants names on every singlet.",
       "lacks": "A single singlet costs far more than the team price per piece.",
-      "note": "Wooter listed its singlet from $32.99 at 1,000 pieces to $84.99 for one when we checked in November 2026."
+      "note": "Wooter's singlet price falls with quantity: $84.99 for 1 to 9, $59.99 for 10 to 25 and $32.99 at 1,001 or more when we checked in November 2026."
     },
     {
       "id": "allsports",
@@ -84,7 +84,7 @@
     },
     {
       "q": "How long does it take?",
-      "a": "Three weeks after you approve the design at Wooter, with rush production offered."
+      "a": "Three weeks on average after you approve the design at Wooter. Rush turnaround in one to two weeks costs extra."
     }
   ],
   "related": [

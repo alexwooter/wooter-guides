@@ -46,7 +46,7 @@
     {
       "id": "wooter",
       "fit": "One person creating a jersey for themselves or as a gift, in a design of their own.",
-      "lacks": "One jersey costs several times the per-piece team price, and takes three weeks."
+      "lacks": "One jersey costs several times the per-piece team price, and takes about three weeks."
     },
     {
       "id": "customink",
@@ -115,7 +115,7 @@
     },
     {
       "q": "How long will it take?",
-      "a": "Wooter quotes three weeks from design approval, and rush production is available."
+      "a": "Wooter averages three weeks from design approval. A one to two week rush is available for an added fee."
     }
   ],
   "related": [

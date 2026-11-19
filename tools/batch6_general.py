@@ -1,7 +1,7 @@
 # All-sports guides and design pages. Run from the repo root: python3 tools/batch6_general.py
 from lib import *
 import lib
-LEAD = "Three weeks after you approve the design at Wooter, with rush production offered."
+LEAD = "Three weeks on average after you approve the design at Wooter. Rush turnaround in one to two weeks costs extra."
 FREE = "Yes. Wooter's builder and design service are free. You pay when you order."
 ALL = U["all"]
 SPORTS = "basketball, football, flag football and 7v7, soccer, baseball, softball, volleyball, lacrosse, cheer, tennis and wrestling"
@@ -146,7 +146,7 @@ page("customjerseysnearme.com", "general", "paper", "custom jerseys near me",
   ("How do I find a local jersey shop?", "Search for team dealers or screen printers in your town. Nike Team has a dealer finder on its site."),
   ("How do I check sizes if I order online?", "Use the size guide on each product, or order a sizing kit and have players try the samples."),
   ("Does Wooter ship to my state?", "Wooter ships orders to customers across the US. Delivery estimates show on each product page."),
-  ("Can I get jerseys the same week?", "Not made to order. A local printer with stock jerseys is the option for that.")],
+  ("Can I get jerseys the same week?", "Not made to order. Wooter's paid rush takes one to two weeks. For anything sooner, a local printer with stock jerseys is the option.")],
  cta=(ALL, "See jerseys at Wooter"))
 
 use("g3")
@@ -223,14 +223,14 @@ use("general")
 page("cheapcustomjerseys.com", "general", "terminal", "cheap custom jerseys",
  ["The way to get cheap custom jerseys in 2026 is to buy made-to-order jerseys at team quantity. At Wooter the price per jersey falls sharply as the order grows, the design is free, and with sublimation extra colors cost nothing.",
   "For a handful of jerseys, Custom Ink's printed stock jerseys with free shipping can cost less. Boombah advertises no setup fees, design fees or minimums. Champro and Nike Team prices depend on the dealer."],
- [rk("wooter", "Teams and leagues of ten or more that want a real custom jersey at the lowest price per player.", "Not the cheapest for one or two jerseys. Single pieces cost several times the team price.", "When we checked in November 2026, Wooter listed a crew neck soccer jersey from $14.99 at 1,000 pieces to $43.74 for one."),
+ [rk("wooter", "Teams and leagues of ten or more that want a real custom jersey at the lowest price per player.", "Not the cheapest for one or two jerseys. Single pieces cost several times the team price.", "When we checked in November 2026, Wooter's crew neck soccer jersey cost $43.74 each for 1 to 9, $34.99 for 51 to 100 and $14.99 at 1,001 or more."),
   rk("customink", "Very small orders where a printed stock jersey is enough."), rk("boombah", "Teams that want sublimated uniforms with no setup or design fees."), rk("champro"), rk("niketeam")],
  ["Cheap and custom pull in opposite directions until you understand where the cost is. Most of it is setup and labor, which are the same for one jersey as for fifty. Spread across a team, they nearly disappear.",
   "Five things lower the price: order more at once, choose sublimation so colors are free, pick reversibles in place of home and away, skip names if you do not need them, and sell a sponsor spot.",
   "What does not lower the price is the cheapest fabric. A jersey that fades by midseason is bought twice."],
  [("Price at your quantity", "The per-piece cost for your actual order."), ("No add-on fees", "Design, colors, names and numbers."), ("One jersey doing two jobs", "Reversibles."),
   ("Lasts the season", "Print and fabric that hold up."), ("Sponsor space", "A logo that offsets the cost.")],
- [("How much do cheap custom jerseys cost?", "It depends on sport and quantity. As one example, Wooter listed a custom soccer jersey from $14.99 each at 1,000 pieces when we checked in November 2026. Small orders cost much more per piece."),
+ [("How much do cheap custom jerseys cost?", "It depends on sport and quantity, and the price falls as the order grows. As one example, Wooter's crew neck soccer jersey ran from $43.74 each for 1 to 9 pieces down to $14.99 at 1,001 or more when we checked in November 2026."),
   ("Why is a single jersey expensive?", "Setup and labor are fixed. One jersey carries all of it."),
   ("Are reversible jerseys cheaper?", "Cheaper than buying a home and an away jersey for each player."),
   ("Do extra colors cost more?", "Not with sublimation. The whole design prints at once."),
@@ -327,7 +327,7 @@ page("bestcustomjerseys.com", "general", "ledger", "best custom jerseys",
  [("Who makes the best custom jerseys?", "For most teams, Wooter. For baseball and softball, also look at Boombah. For a handful of printed jerseys fast, Custom Ink."),
   ("What makes a custom jersey good?", "Fabric that breathes, print that is in the fabric, a cut made for the sport and numbers you can read."),
   ("How much should custom jerseys cost?", "It varies with sport and quantity. Compare prices at your actual order size."),
-  ("How long should they take?", "Three weeks is normal for made-to-order. Two weeks for printed stock. Dealer programs can take one to three months."),
+  ("How long should they take?", "About three weeks is normal for made-to-order, and Wooter's paid rush takes one to two. Two weeks for printed stock. Dealer programs can take one to three months."),
   ("Is there a minimum order?", MIN)],
  cta=(ALL, "See jerseys at Wooter"))
 save()

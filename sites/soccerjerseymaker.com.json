@@ -50,7 +50,7 @@
     {
       "id": "wooter",
       "fit": "Managers and captains who want to make the kit themselves and order it online.",
-      "lacks": "Three weeks from approval to delivery."
+      "lacks": "About three weeks from approval to delivery."
     },
     {
       "id": "customink",
@@ -119,7 +119,7 @@
     },
     {
       "q": "How long until the kit arrives?",
-      "a": "About three weeks once the design is approved. Ask Wooter about rush production for a tighter date."
+      "a": "About three weeks once the design is approved. For a tighter date, Wooter offers a one to two week rush at extra cost."
     }
   ],
   "related": [

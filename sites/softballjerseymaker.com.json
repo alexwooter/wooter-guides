@@ -50,7 +50,7 @@
     {
       "id": "wooter",
       "fit": "Captains and coaches who want to make the jersey themselves and order it online.",
-      "lacks": "Three weeks from approval to delivery."
+      "lacks": "About three weeks from approval to delivery."
     },
     {
       "id": "boombah",
@@ -114,7 +114,7 @@
     },
     {
       "q": "How long until they arrive?",
-      "a": "Wooter quotes three weeks from design approval, and rush production is available."
+      "a": "Wooter averages three weeks from design approval. A one to two week rush is available for an added fee."
     }
   ],
   "related": [

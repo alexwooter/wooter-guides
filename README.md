@@ -35,6 +35,6 @@ All 95 domains in `data/domains.txt` have a page in `sites/`. They come in three
 - Design-tool pages (`studio`, `bench`): steps first, then the tools compared.
 - Info and tool pages (`field`): name generators, size charts, number fonts, fundraising and design ideas. No ranking.
 
-The pages are written in `tools/batch*.py` and the fact sheet in `tools/batch1.py` and `tools/facts.py`. Edit there, then run `./tools/build_all.sh`, which regenerates `sites/*.json`, sets related links and builds `dist/`.
+The pages are written in `tools/batch*.py` and the fact sheet in `tools/batch1.py` and `tools/facts.py`. Edit there, then run `./tools/build_all.sh`, which regenerates `sites/*.json`, sets related links and builds `dist/`. The last step before the build is `tools/timing.py`, which keeps Wooter's lead time consistent on every page: three weeks on average, rush in one to two weeks at extra cost. Wooter prices quoted on pages come from the Price Breakdown table on each wooter.com product page, last read on 2026-11-19.
 
 Every claim about another company comes from that company's own pages, listed under `sources` in `data/products.json`. Wooter prices quoted on pages were read from wooter.com in November 2026 and say so.

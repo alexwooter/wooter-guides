@@ -19,7 +19,7 @@
     {
       "id": "wooter",
       "fit": "A player who wants a spare, a parent or fan who wants a match for the team, or a full roster.",
-      "lacks": "Three weeks after approval, and a single jersey costs far more per piece than a team order."
+      "lacks": "About three weeks after approval, and a single jersey costs far more per piece than a team order."
     },
     {
       "id": "customink",
@@ -83,7 +83,7 @@
     },
     {
       "q": "How long does it take?",
-      "a": "Three weeks after you approve the design at Wooter, with rush production offered."
+      "a": "Three weeks on average after you approve the design at Wooter. Rush turnaround in one to two weeks costs extra."
     }
   ],
   "related": [
