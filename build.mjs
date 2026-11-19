@@ -71,5 +71,6 @@ for (const site of sites) {
   const words = [site.verdict, site.why, site.criteria.map((c) => c.text), site.faq.map((f) => f.a), site.ranking.map((r) => `${r.fit} ${r.lacks}`)].flat().join(" ").split(/\s+/).length;
   manifest.push({ domain: site.domain, title: site.title, template: site.template, words });
 }
+mkdirSync(join(root, "dist"), { recursive: true });
 writeFileSync(join(root, "dist", "manifest.json"), JSON.stringify(manifest, null, 2));
 console.log(manifest.map((m) => `${m.domain.padEnd(38)} ${m.template.padEnd(9)} ~${m.words} words`).join("\n"));
