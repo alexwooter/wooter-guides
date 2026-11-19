@@ -1,0 +1,125 @@
+{
+  "domain": "footballjerseydesign.com",
+  "cluster": "football",
+  "template": "studio",
+  "query": "football jersey design",
+  "site_name": "Football Jersey Design",
+  "title": "Football Jersey Design (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "Football jersey design in 2026 is about numbers first and everything else second. Wooter's builder has football styles that leave the numbers room, and its designers will create an original for free.",
+    "Champro and Nike Team offer template libraries through dealers. Custom Ink covers printed and stock sublimated designs."
+  ],
+  "cta": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Get a free jersey design"
+  },
+  "cta2": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Try it in the builder"
+  },
+  "steps_title": "Design a football jersey around the numbers",
+  "steps": [
+    {
+      "name": "Set number color and size",
+      "text": "Maximum contrast with the body."
+    },
+    {
+      "name": "Choose the body colors",
+      "text": "Dark home, white away."
+    },
+    {
+      "name": "Add one shoulder feature",
+      "text": "Stripes, pattern or logo."
+    },
+    {
+      "name": "Check against helmet and pants",
+      "text": "Mock up the full uniform."
+    },
+    {
+      "name": "Check the rule sheet",
+      "text": "Then approve the proof."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Programs that want a distinct look and help making it legal and legible.",
+      "lacks": "Three to four weeks to produce once approved."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs with a team dealer that want a fitted, cut-and-sew Juice jersey.",
+      "lacks": "A dealer account places the order, and lead time is confirmed after artwork approval."
+    },
+    {
+      "id": "customink",
+      "fit": "Flag, intramural and club teams that want sublimated or printed jerseys with free shipping.",
+      "lacks": "Its sublimated football styles come from other brands' catalogs, so designs start from their templates."
+    },
+    {
+      "id": "niketeam",
+      "fit": "School programs that want Nike and order a season ahead.",
+      "lacks": "Build-to-order takes 30, 60 or 90 days, and pricing comes from the dealer."
+    }
+  ],
+  "why": [
+    "Start with the numbers. They are the biggest thing on the jersey, officials and scouts rely on them, and high school rules govern their size, style and contrast with the jersey.",
+    "Then spend your one idea on the shoulders or sleeves: stripes, a pattern or a logo. The body mostly disappears under pads and a tucked hem.",
+    "Finish with the helmet and pants in mind. A jersey that matches both looks deliberate."
+  ],
+  "criteria": [
+    {
+      "name": "Number legibility",
+      "text": "Readable from the press box."
+    },
+    {
+      "name": "Contrast",
+      "text": "Numbers that separate from the body."
+    },
+    {
+      "name": "Shoulder detail",
+      "text": "One clear feature."
+    },
+    {
+      "name": "Whole uniform",
+      "text": "Works with helmet and pants."
+    },
+    {
+      "name": "Rule fit",
+      "text": "Meets your association's jersey rules."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What makes a football jersey legal for high school?",
+      "a": "NFHS rules cover number size, style and color contrast, and numbers run 0 through 99. Get the current rule sheet from your state association before approving a design."
+    },
+    {
+      "q": "Where can a design go on a football jersey?",
+      "a": "Shoulders, sleeves and side panels. Keep the chest and back clear for numbers."
+    },
+    {
+      "q": "Should home be dark or white?",
+      "a": "Most rules put the home team in dark and visitors in white."
+    },
+    {
+      "q": "Can numbers have outlines?",
+      "a": "Often yes, within limits. Check your rules, since border widths can be restricted."
+    },
+    {
+      "q": "Can a designer do this for us?",
+      "a": "Yes. Wooter's design service is free."
+    }
+  ],
+  "related": [
+    "custommadefootballjerseys.com",
+    "personalizedfootballjersey.com",
+    "footballjerseymaker.com",
+    "footballjerseygenerator.com",
+    "youthfootballpracticejerseys.com",
+    "jerseydesignideas.com",
+    "cheapcustomjerseys.com"
+  ]
+}

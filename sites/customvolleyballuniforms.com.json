@@ -1,0 +1,104 @@
+{
+  "domain": "customvolleyballuniforms.com",
+  "cluster": "volleyball",
+  "template": "paper",
+  "query": "custom volleyball uniforms",
+  "site_name": "Custom Volleyball Uniforms",
+  "title": "Custom Volleyball Uniforms (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "Wooter is our first choice for custom volleyball uniforms in 2026. Jerseys, shorts and bags are in one catalog, packages bundle them, and the whole uniform is made from one design.",
+    "Boombah is a solid alternative for sublimated jerseys. Custom Ink offers fitted stock styles with print. Champro and Nike Team outfit school programs through dealers."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search/volleyball",
+    "text": "See volleyball uniforms at Wooter"
+  },
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Club and school teams that want jerseys, shorts and bags to match.",
+      "lacks": "Made to order in three to four weeks.",
+      "note": "Volleyball has its own packages, jerseys, shorts and bags on Wooter, including a reversible jersey."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that want to build sublimated volleyball jerseys online and buy from the maker.",
+      "lacks": "Volleyball is a smaller line for it than baseball and fastpitch."
+    },
+    {
+      "id": "customink",
+      "fit": "Rec and club teams that want fitted performance jerseys printed with names and numbers.",
+      "lacks": "Stock styles with decoration. No libero jersey cut from your own pattern."
+    },
+    {
+      "id": "champro",
+      "fit": "School programs that order volleyball uniforms through a team dealer.",
+      "lacks": "Dealer pricing and dealer ordering."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Programs that want Nike and have a dealer.",
+      "lacks": "30 to 90 days on build-to-order uniforms."
+    }
+  ],
+  "why": [
+    "Club volleyball is a travel sport. A team might play three days in a convention center, so the uniform count goes up: two or three jerseys, shorts and a bag to carry it all.",
+    "Buying those from one maker keeps the colors consistent. On Wooter the same artwork covers each jersey colorway, the shorts and the bag.",
+    "The design is free, and the proof shows every number before production."
+  ],
+  "criteria": [
+    {
+      "name": "More than one jersey",
+      "text": "Colorways for multi-day events."
+    },
+    {
+      "name": "Libero version",
+      "text": "A contrasting jersey in the same design."
+    },
+    {
+      "name": "Shorts",
+      "text": "Made to match."
+    },
+    {
+      "name": "Bags",
+      "text": "Team bags with the same mark."
+    },
+    {
+      "name": "Free design",
+      "text": "A mockup before you pay."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many jerseys does a club team need?",
+      "a": "Two or three, so the team has a fresh one each tournament day and a contrasting option."
+    },
+    {
+      "q": "What is in a volleyball uniform?",
+      "a": "A jersey and shorts, plus a contrasting libero jersey."
+    },
+    {
+      "q": "Can boys' and girls' teams share a design?",
+      "a": "Yes. Order each in its own cut."
+    },
+    {
+      "q": "Do packages save money?",
+      "a": "Compare the package with the pieces at your quantity. Prices are on the product pages."
+    },
+    {
+      "q": "Is there a minimum order?",
+      "a": "No real minimum. Most Wooter product pages allow an order of one, though the per-piece price is far lower at team quantity."
+    }
+  ],
+  "related": [
+    "volleyballjerseymaker.com",
+    "personalizedvolleyballjerseys.com",
+    "volleyballteamnames.com",
+    "randomteamnamegenerator.com",
+    "jerseydesignideas.com",
+    "cheapcustomjerseys.com",
+    "fundraisingideasforsportsteams.com"
+  ]
+}

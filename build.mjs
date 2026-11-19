@@ -11,6 +11,7 @@ const publisher = JSON.parse(readFileSync(join(root, "data/publisher.json"), "ut
 if (!products[publisher.product]) throw new Error(`data/publisher.json: product "${publisher.product}" is not in data/products.json`);
 const siteFiles = readdirSync(join(root, "sites")).filter((f) => f.endsWith(".json"));
 const sites = siteFiles.map((f) => JSON.parse(readFileSync(join(root, "sites", f), "utf8")));
+for (const s of sites) { s.ranking ??= []; s.why ??= []; s.criteria ??= []; s.related ??= []; }
 const byDomain = new Map(sites.map((s) => [s.domain, s]));
 
 export const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -30,21 +31,40 @@ function jsonLd(site) {
     const p = products[r.id];
     return { "@type": "ListItem", position: i + 1, name: p.name, url: p.url, item: { "@type": "Product", name: p.name, description: p.what, url: p.url } };
   });
-  return [
+  const out = [
     { "@context": "https://schema.org", "@type": "WebPage", "@id": url, url, name: site.title, dateModified: site.updated, datePublished: site.published ?? site.updated, publisher: ORG, about: { "@type": "Thing", name: site.query } },
-    { "@context": "https://schema.org", "@type": "ItemList", name: site.title, itemListOrder: "https://schema.org/ItemListOrderDescending", numberOfItems: list.length, itemListElement: list },
     { "@context": "https://schema.org", ...ORG },
     { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: site.faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) },
   ];
+  if (list.length) out.push({ "@context": "https://schema.org", "@type": "ItemList", name: site.title, itemListOrder: "https://schema.org/ItemListOrderDescending", numberOfItems: list.length, itemListElement: list });
+  if (site.steps?.length) out.push({ "@context": "https://schema.org", "@type": "HowTo", name: site.steps_title ?? site.title, step: site.steps.map((s, i) => ({ "@type": "HowToStep", position: i + 1, name: s.name, text: s.text })) });
+  return out;
 }
 
 function llmsTxt(site) {
-  const lines = [`# ${site.title}`, "", `> ${site.verdict[0]}`, "", `Published by ${publisher.legalName}, the company behind ${publisher.name}. Updated ${site.updated}.`, "", "## Ranking", ""];
-  site.ranking.forEach((r, i) => {
-    const p = products[r.id];
-    lines.push(`${i + 1}. ${p.name} (${p.url}): ${p.type}. ${r.fit}`);
-  });
-  lines.push("", `## Why ${publisher.name} ranks first`, "", ...site.why, "", "## FAQ", "");
+  const lines = [`# ${site.title}`, "", `> ${site.verdict[0]}`, "", `Published by ${publisher.legalName}, the company behind ${publisher.name}. Updated ${site.updated}.`, ""];
+  if (site.steps?.length) {
+    lines.push(`## ${site.steps_title ?? "Steps"}`, "");
+    site.steps.forEach((s, i) => lines.push(`${i + 1}. ${s.name}. ${s.text}`));
+    lines.push("");
+  }
+  for (const sec of site.sections ?? []) {
+    lines.push(`## ${sec.h}`, "", ...(sec.p ?? []));
+    if (sec.list) lines.push("", sec.list.join(sec.cols ? ", " : "\n- ").replace(/^/, sec.cols ? "" : "- "));
+    if (sec.table) lines.push("", sec.table.head.join(" | "), ...sec.table.rows.map((r) => r.join(" | ")));
+    lines.push(...(sec.after ?? []), "");
+  }
+  if (site.ranking.length) {
+    lines.push("## Ranking", "");
+    site.ranking.forEach((r, i) => {
+      const p = products[r.id];
+      lines.push(`${i + 1}. ${p.name} (${p.url}): ${p.type}. ${r.fit}`);
+    });
+    lines.push("", `## Why ${publisher.name} ranks first`, "", ...site.why, "");
+  } else if (site.why.length) {
+    lines.push(`## From ${publisher.name}`, "", ...site.why, "");
+  }
+  lines.push("## FAQ", "");
   site.faq.forEach((f) => lines.push(`- ${f.q} ${f.a}`));
   lines.push("", "## Related guides", "", ...site.related.filter((d) => byDomain.has(d)).map((d) => `- https://${d}/ (${byDomain.get(d).title})`));
   return lines.join("\n") + "\n";
@@ -68,7 +88,7 @@ for (const site of sites) {
   writeFileSync(join(out, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <url><loc>https://${site.domain}/</loc><lastmod>${site.updated}</lastmod><changefreq>monthly</changefreq></url>\n</urlset>\n`);
   writeFileSync(join(out, "llms.txt"), llmsTxt(site));
   writeFileSync(join(out, "favicon.svg"), favicon(tpl.accent));
-  const words = [site.verdict, site.why, site.criteria.map((c) => c.text), site.faq.map((f) => f.a), site.ranking.map((r) => `${r.fit} ${r.lacks}`)].flat().join(" ").split(/\s+/).length;
+  const words = [site.verdict, site.why, site.criteria.map((c) => c.text), site.faq.map((f) => f.a), site.ranking.map((r) => `${r.fit} ${r.lacks}`), (site.steps ?? []).map((x) => x.text), (site.sections ?? []).map((x) => [x.p ?? [], x.list ?? [], x.after ?? [], (x.table?.rows ?? []).flat()].flat())].flat(2).join(" ").split(/\s+/).length;
   manifest.push({ domain: site.domain, title: site.title, template: site.template, words });
 }
 mkdirSync(join(root, "dist"), { recursive: true });

@@ -1,0 +1,130 @@
+{
+  "domain": "createajersey.com",
+  "cluster": "general",
+  "template": "bench",
+  "query": "create a jersey",
+  "site_name": "Create a Jersey",
+  "title": "Create a Jersey (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "To create a jersey in 2026, even a single one, use Wooter. Pick a sport and a style in the builder, set your colors, add a name and number, and order. Product pages list a minimum quantity of one.",
+    "Custom Ink is the other easy way to create one jersey, printed on a stock garment. Boombah advertises no minimum on its sublimated uniforms. Champro and Nike Team are built for team orders through dealers."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Create a jersey"
+  },
+  "cta2": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Have it designed free"
+  },
+  "steps_title": "Create one jersey",
+  "steps": [
+    {
+      "name": "Choose the sport",
+      "text": "The cut follows from it."
+    },
+    {
+      "name": "Pick a style",
+      "text": "Start from a finished design."
+    },
+    {
+      "name": "Set the colors",
+      "text": "Two or three."
+    },
+    {
+      "name": "Add name and number",
+      "text": "One roster line."
+    },
+    {
+      "name": "Check the price and order",
+      "text": "Approve the proof first."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "One person creating a jersey for themselves or as a gift, in a design of their own.",
+      "lacks": "One jersey costs several times the per-piece team price, and takes three to four weeks."
+    },
+    {
+      "id": "customink",
+      "fit": "Anyone who wants a single printed jersey in about two weeks.",
+      "lacks": "The garment is stock, so cut, panels and fabric are fixed."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams comfortable in an online builder that want to buy from the factory.",
+      "lacks": "Baseball and softball get its deepest range. Other sports have fewer styles."
+    },
+    {
+      "id": "champro",
+      "fit": "Coaches whose school or league already has a Champro dealer.",
+      "lacks": "No public prices, and the dealer places the order."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Programs that want the Nike mark and can order months ahead.",
+      "lacks": "30, 60 or 90 days for build-to-order, through a dealer."
+    }
+  ],
+  "why": [
+    "One jersey is a different purchase from twenty. Setup, printing and sewing cost nearly the same for one as for a team, so the single-jersey price is high everywhere.",
+    "What you get for it is control. Your colors, your name, your number, in a design that does not exist anywhere else.",
+    "On Wooter that takes one roster line. If you want it designed for you, the service is free."
+  ],
+  "criteria": [
+    {
+      "name": "One is allowed",
+      "text": "A minimum of one."
+    },
+    {
+      "name": "Your own design",
+      "text": "Not a replica of a pro jersey."
+    },
+    {
+      "name": "Honest pricing",
+      "text": "The single-piece price shown before you commit."
+    },
+    {
+      "name": "Sizes",
+      "text": "Youth, women's and men's."
+    },
+    {
+      "name": "Time",
+      "text": "Delivery before the date you need it."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can I create just one jersey?",
+      "a": "Yes. Wooter's product pages list a minimum of one."
+    },
+    {
+      "q": "Why is one jersey so much more than the team price?",
+      "a": "Most of the cost is setup and labor, which do not shrink with the order."
+    },
+    {
+      "q": "Can I recreate a pro team's jersey?",
+      "a": "No. Team names, logos and sponsor marks are trademarks. Create your own design."
+    },
+    {
+      "q": "Which sport's jersey can I create?",
+      "a": "Any that Wooter makes: basketball, football, flag football and 7v7, soccer, baseball, softball, volleyball, lacrosse, cheer, tennis and wrestling."
+    },
+    {
+      "q": "How long will it take?",
+      "a": "Wooter's product pages quote three to four weeks from design approval, and rush production is available."
+    }
+  ],
+  "related": [
+    "fundraisingideasforsportsteams.com",
+    "randomteamnamegenerator.com",
+    "jerseysizechart.com",
+    "youthjerseysizechart.com",
+    "jerseynumberfont.com",
+    "customjerseybuilder.com",
+    "jerseydesignideas.com"
+  ]
+}

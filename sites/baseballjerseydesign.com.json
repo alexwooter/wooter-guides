@@ -1,0 +1,130 @@
+{
+  "domain": "baseballjerseydesign.com",
+  "cluster": "baseball",
+  "template": "studio",
+  "query": "baseball jersey design",
+  "site_name": "Baseball Jersey Design",
+  "title": "Baseball Jersey Design (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "The strongest baseball jersey design in 2026 is usually the simplest one: a clean body, one kind of trim and a script people can read from the outfield. Wooter's builder has baseball styles built that way, and its designers will draw an original for free.",
+    "Boombah's builder is worth browsing for layouts too. Champro and Nike Team have template libraries behind their dealers. Custom Ink handles printed designs."
+  ],
+  "cta": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Get a free jersey design"
+  },
+  "cta2": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Browse styles in the builder"
+  },
+  "steps_title": "Design a baseball jersey that lasts more than one season",
+  "steps": [
+    {
+      "name": "Pick a tradition",
+      "text": "Pinstripe, piping or raglan sleeves. One."
+    },
+    {
+      "name": "Choose two colors",
+      "text": "Plus white or gray for the body."
+    },
+    {
+      "name": "Write the script",
+      "text": "Team name on the chest, sized to fit between the buttons."
+    },
+    {
+      "name": "Place the numbers",
+      "text": "Back and front left."
+    },
+    {
+      "name": "Plan the alternate",
+      "text": "Same script, different body color."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Teams that want a design with a point of view and help getting there.",
+      "lacks": "Even a simple design takes three to four weeks to produce."
+    },
+    {
+      "id": "boombah",
+      "fit": "Baseball teams that want sublimated jerseys and pants from one maker's own factories.",
+      "lacks": "Its baseball pages quote different lead times. Get the date in writing."
+    },
+    {
+      "id": "champro",
+      "fit": "Teams with a local dealer that want a cut-and-sew Juice jersey or a lower-cost Splash one.",
+      "lacks": "Ordered through a dealer account, with lead time confirmed after artwork approval."
+    },
+    {
+      "id": "customink",
+      "fit": "Rec and company teams that need a printed button-front jersey in about two weeks.",
+      "lacks": "Limited to what prints on a stock jersey."
+    },
+    {
+      "id": "niketeam",
+      "fit": "School programs that want Nike and plan a season ahead with a dealer.",
+      "lacks": "Build-to-order takes 30, 60 or 90 days. Personalized stock arrives within three weeks."
+    }
+  ],
+  "why": [
+    "Baseball design has a long memory. Pinstripes, piping, a script with a tail, a number on the sleeve: each one reads as baseball because it has for a century. Borrow one or two and stop.",
+    "The modern side is color. Sublimation makes fades, patterns and bold sleeves easy, and travel teams use them to stand out at tournaments. One loud jersey and one classic is a good pair.",
+    "Either direction starts the same way on Wooter: a finished style in the builder, or a brief to the designers."
+  ],
+  "criteria": [
+    {
+      "name": "Readable script",
+      "text": "A team name legible from distance."
+    },
+    {
+      "name": "Restraint",
+      "text": "One or two traditional details."
+    },
+    {
+      "name": "Number contrast",
+      "text": "Numbers that separate from the body color."
+    },
+    {
+      "name": "A second look",
+      "text": "Room for an alternate jersey in the same family."
+    },
+    {
+      "name": "Design help",
+      "text": "A designer on call."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the classic baseball jersey designs?",
+      "a": "Pinstripes, a solid body with piping, a raglan with contrast sleeves, and a vest look."
+    },
+    {
+      "q": "Script or block letters?",
+      "a": "Script for a traditional team name, block for a city or short name."
+    },
+    {
+      "q": "How many colors should we use?",
+      "a": "Two plus white or gray. A third works as a thin outline."
+    },
+    {
+      "q": "Should the alternate jersey match?",
+      "a": "It should look related. Keep the script and change the body color."
+    },
+    {
+      "q": "Can I get design ideas without committing?",
+      "a": "Yes. Browse the styles in the builder, or request a free mockup."
+    }
+  ],
+  "related": [
+    "customyouthbaseballjerseys.com",
+    "travelbaseballuniforms.com",
+    "baseballuniformpackages.com",
+    "custommadebaseballjerseys.com",
+    "custommadebaseballuniforms.com",
+    "cheapcustomjerseys.com",
+    "fundraisingideasforsportsteams.com"
+  ]
+}

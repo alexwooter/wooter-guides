@@ -1,0 +1,104 @@
+{
+  "domain": "customyouthbaseballjerseys.com",
+  "cluster": "baseball",
+  "template": "paper",
+  "query": "custom youth baseball jerseys",
+  "site_name": "Custom Youth Baseball Jerseys",
+  "title": "Custom Youth Baseball Jerseys (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "For custom youth baseball jerseys in 2026, go to Wooter. Its baseball jerseys come in youth sizes from extra small to extra large, a league can add a sponsor to the design, and the minimum is one, so a single late sign-up is not a problem.",
+    "Boombah is a good alternative for sublimated youth jerseys. Champro supplies many leagues through dealers. Custom Ink prints stock jerseys quickly. Nike Team is for school programs."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search/baseball",
+    "text": "See youth baseball jerseys at Wooter"
+  },
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Little league, rec and travel teams that want jerseys built for kids, in kids' sizes.",
+      "lacks": "Three to four weeks after approval. Leagues should order before the draft if they can.",
+      "note": "Sizing kits let a league try jerseys on players before ordering."
+    },
+    {
+      "id": "boombah",
+      "fit": "Baseball teams that want sublimated jerseys and pants from one maker's own factories.",
+      "lacks": "Its baseball pages quote different lead times. Get the date in writing."
+    },
+    {
+      "id": "champro",
+      "fit": "Leagues that already buy through a team dealer.",
+      "lacks": "Ordered through a dealer account, with lead time confirmed after artwork approval."
+    },
+    {
+      "id": "customink",
+      "fit": "Rec and company teams that need a printed button-front jersey in about two weeks.",
+      "lacks": "Stock garments with your print added, not a jersey built from your pattern."
+    },
+    {
+      "id": "niketeam",
+      "fit": "School programs that want Nike and plan a season ahead with a dealer.",
+      "lacks": "Build-to-order takes 30, 60 or 90 days. Personalized stock arrives within three weeks."
+    }
+  ],
+  "why": [
+    "Youth baseball has two sizing rules. Measure, do not guess by age. And leave room, because the jersey goes over an undershirt in April and has to fit in July.",
+    "Wooter's own sizing guide says the same: order a size up if players wear layers, and re-measure youth players every few months.",
+    "For leagues, the sponsor is the other half of the story. A sublimated jersey carries the sponsor's logo in the design, which is how most leagues cover the cost."
+  ],
+  "criteria": [
+    {
+      "name": "Youth sizes",
+      "text": "A range that fits seven to fourteen."
+    },
+    {
+      "name": "Room to grow",
+      "text": "Guidance on sizing up."
+    },
+    {
+      "name": "Sponsor space",
+      "text": "A logo on the back or sleeve."
+    },
+    {
+      "name": "Late additions",
+      "text": "One more jersey without a new minimum."
+    },
+    {
+      "name": "Wash after wash",
+      "text": "Numbers that do not peel."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What size jersey does a ten-year-old wear?",
+      "a": "It varies too much to say by age. Measure the chest and compare it to the product's size guide, then size up if in doubt."
+    },
+    {
+      "q": "Should youth jerseys have names on the back?",
+      "a": "Many leagues skip names for privacy and cost. Numbers are enough for the scorebook."
+    },
+    {
+      "q": "Can each team in the league have its own color?",
+      "a": "Yes. One layout in a color per team keeps the league looking like a league."
+    },
+    {
+      "q": "How do we fit the sponsor in?",
+      "a": "Back of the jersey above the number is standard."
+    },
+    {
+      "q": "Is there a minimum order?",
+      "a": "One on most items. Wooter's product pages list a minimum quantity of one, and the price per piece drops as the order grows."
+    }
+  ],
+  "related": [
+    "travelbaseballuniforms.com",
+    "baseballuniformpackages.com",
+    "custommadebaseballjerseys.com",
+    "custommadebaseballuniforms.com",
+    "personalizedbaseballjerseys.com",
+    "bestcustomjerseys.com",
+    "customjerseybuilder.com"
+  ]
+}

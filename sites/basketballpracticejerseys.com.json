@@ -1,0 +1,104 @@
+{
+  "domain": "basketballpracticejerseys.com",
+  "cluster": "basketball",
+  "template": "brief",
+  "query": "basketball practice jerseys",
+  "site_name": "Basketball Practice Jerseys",
+  "title": "Basketball Practice Jerseys (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "For basketball practice jerseys in 2026, Wooter is the first place to look. Its reversible practice jersey gives a squad two colors in one lightweight top, each side printed with your team name and numbers, in youth, women's and men's sizes.",
+    "Custom Ink is the quick option for printed practice tanks. Boombah builds reversible practice sets online. Champro and Nike Team supply practice gear through team dealers."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search/basketball",
+    "text": "See practice jerseys at Wooter"
+  },
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Coaches who split practice into two teams and want numbered jerseys that last the season.",
+      "lacks": "Made to order in three to four weeks. For jerseys by Friday, buy stock.",
+      "note": "The practice jersey is listed with a minimum of one, and youth sizes start at 2XS."
+    },
+    {
+      "id": "customink",
+      "fit": "Teams that want a stock tank printed with a logo and numbers in about two weeks.",
+      "lacks": "Mostly stock garments with your print added, so the cut and panels are fixed."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that want reversible jerseys and shorts built online by a maker with its own factories.",
+      "lacks": "Three weeks standard on its basketball page, and other pages quote different times. Confirm before you order."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs with a team dealer that want cut-and-sew Juice sublimation.",
+      "lacks": "A dealer account places the order. There is no public checkout."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Schools and clubs that want Nike and already work with an authorized dealer.",
+      "lacks": "Build-to-order uniforms take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "Practice jerseys get washed more than game jerseys and cared for less. Two things matter: the print has to survive the laundry, and the coach has to be able to split teams at a glance.",
+    "Sublimation handles the first. The design is dyed into the fabric, so numbers do not crack or peel. A reversible handles the second: flip the jersey and half the gym is on the other team.",
+    "Wooter also sells shooting shirts in long sleeve, short sleeve, sleeveless and hooded cuts for the layer over the top."
+  ],
+  "criteria": [
+    {
+      "name": "Survives the wash",
+      "text": "Print that is in the fabric, not on it."
+    },
+    {
+      "name": "Two colors",
+      "text": "Reversible, or a light and dark set."
+    },
+    {
+      "name": "Numbers",
+      "text": "So film review and drills can call players by number."
+    },
+    {
+      "name": "Weight",
+      "text": "Light and breathable for two-hour sessions."
+    },
+    {
+      "name": "Cost per player",
+      "text": "Low enough to replace when a jersey goes missing."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Reversible or two practice jerseys?",
+      "a": "Reversible. It costs less than two jerseys and nobody forgets the other color."
+    },
+    {
+      "q": "Should practice jerseys have numbers?",
+      "a": "Yes. Numbers make drills, scrimmages and film easier to run. They do not have to match game numbers."
+    },
+    {
+      "q": "How many should a team order?",
+      "a": "One per player plus two or three spares in common sizes for new players and lost jerseys."
+    },
+    {
+      "q": "Can the practice jersey match our game uniform?",
+      "a": "Yes. Use the same colors and logo with a simpler layout."
+    },
+    {
+      "q": "How long does it take?",
+      "a": "Three to four weeks after you approve the design at Wooter, with rush production offered."
+    }
+  ],
+  "related": [
+    "basketballteamnames.com",
+    "customyouthbasketballjerseys.com",
+    "wholesalebasketballuniforms.com",
+    "custombasketballteamuniforms.com",
+    "basketballuniformpackages.com",
+    "customjerseybuilder.com",
+    "jerseysizechart.com"
+  ]
+}

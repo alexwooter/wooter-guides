@@ -1,0 +1,115 @@
+{
+  "domain": "jerseynumberfont.com",
+  "cluster": "general",
+  "template": "field",
+  "query": "jersey number font",
+  "site_name": "Jersey Number Font",
+  "title": "Jersey Number Font (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "The best jersey number font is the one a referee can read from across the field. Block and varsity styles do that best, which is why most teams use them. This page covers the main styles and the rules that limit your choice.",
+    "Pick the number style before the rest of the design. It is the largest thing on the jersey."
+  ],
+  "cta": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Get a free jersey design"
+  },
+  "sections": [
+    {
+      "h": "The main number styles",
+      "list": [
+        "Block: plain, heavy and square. The most legible, and the default in most sports.",
+        "Varsity: block with small serifs or notched corners. The classic school look.",
+        "Outlined block: a block number with a contrasting border. Popular in football and basketball.",
+        "Rounded: softer corners for a modern look. Still readable.",
+        "Stencil: breaks in the strokes for a military feel. Lose some legibility.",
+        "Script: for names and wordmarks, not numbers.",
+        "Custom: drawn for your team. Test it from a distance first."
+      ]
+    },
+    {
+      "h": "Rules that affect your choice",
+      "p": [
+        "High school rules in the US come from the NFHS. Here is what they say on numbers, as far as we could confirm. Get the current sheet from your state association before you order."
+      ],
+      "table": {
+        "head": [
+          "Sport",
+          "What the NFHS rules require"
+        ],
+        "rows": [
+          [
+            "Basketball",
+            "Front number at least 4 inches high and back number at least 6 inches high, with strokes at least 3/4 inch wide. Digits 0 through 5 only. A solid color that contrasts with the jersey, with no more than two 1/4 inch borders."
+          ],
+          [
+            "Football",
+            "Numbers 0 through 99. A number with a leading zero is not legal. Size, style and contrast are also regulated."
+          ],
+          [
+            "Volleyball",
+            "Like-colored tops for the team, with a contrasting libero. Number placement and size are specified in the uniform rule."
+          ]
+        ],
+        "note": "Sources: NFHS basketball and football uniform rules as published by state associations. College, club and youth bodies set their own."
+      }
+    },
+    {
+      "h": "How to choose",
+      "list": [
+        "Contrast first. Light on dark or dark on light.",
+        "Thick strokes. Thin numbers vanish at distance.",
+        "Test it small. Shrink the mockup on your screen and see if you can still read it.",
+        "Match the name. Use the same family for the player name, or a simple block.",
+        "One outline is plenty. Two starts to blur."
+      ]
+    },
+    {
+      "h": "Printed, sewn or pressed",
+      "list": [
+        "Sublimated: dyed into the fabric. Light, permanent and any color.",
+        "Tackle twill: fabric numbers sewn on. Heavy, traditional and textured.",
+        "Heat pressed: a film applied to the surface. Cheap and quick, but it can crack over time."
+      ]
+    }
+  ],
+  "ranking": [],
+  "pub_title": "Numbers done for you",
+  "why": [
+    "Wooter's designers set the numbers as part of the free design, and the proof shows them at real proportions before anything is made.",
+    "Tell them your sport and level so the size and style meet your rules."
+  ],
+  "criteria": [],
+  "faq": [
+    {
+      "q": "What font is used for jersey numbers?",
+      "a": "Most teams use a block or varsity style. There is no single official font. Leagues regulate size, color and legibility."
+    },
+    {
+      "q": "How big should jersey numbers be?",
+      "a": "In high school basketball, at least 4 inches on the front and 6 on the back. Other sports and levels differ, so check your rulebook."
+    },
+    {
+      "q": "Can jersey numbers have an outline?",
+      "a": "Usually. NFHS basketball allows up to two solid borders of 1/4 inch."
+    },
+    {
+      "q": "Why can't basketball players wear 6, 7, 8 or 9?",
+      "a": "Under NFHS rules numbers use only digits 0 through 5, so officials can signal a number with one hand per digit."
+    },
+    {
+      "q": "Can I use a script font for numbers?",
+      "a": "It is a poor idea. Script numbers are hard to read at distance and may not meet your rules."
+    }
+  ],
+  "related": [
+    "makeyourownjersey.com",
+    "cheapcustomjerseys.com",
+    "customyouthjerseys.com",
+    "sublimationuniforms.com",
+    "custompracticejerseys.com",
+    "jerseydesignideas.com",
+    "fundraisingideasforsportsteams.com"
+  ]
+}

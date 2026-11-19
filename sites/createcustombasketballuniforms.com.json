@@ -1,0 +1,131 @@
+{
+  "domain": "createcustombasketballuniforms.com",
+  "cluster": "basketball",
+  "template": "bench",
+  "query": "create custom basketball uniforms",
+  "site_name": "Create Custom Basketball Uniforms",
+  "title": "Create Custom Basketball Uniforms (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "The simplest way to create custom basketball uniforms in 2026 is to let Wooter's designers do it. Fill in a free design request with your team name, colors and logo, and a mockup of the jersey and shorts comes back in 1 to 2 business days. You pay only when you order.",
+    "If you want hands on the controls, Wooter's builder and Boombah's builder both let you create a set yourself. Custom Ink suits a printed jersey. Champro and Nike Team create through dealers."
+  ],
+  "cta": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Start a free design request"
+  },
+  "cta2": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Or use the builder"
+  },
+  "steps_title": "From blank page to finished uniforms",
+  "steps": [
+    {
+      "name": "Write the brief",
+      "text": "Team name, two or three colors, the level you play at, and a couple of uniforms you like. Ten minutes here saves a week later."
+    },
+    {
+      "name": "Send the request",
+      "text": "Wooter's design request form takes the brief and any logo or reference images."
+    },
+    {
+      "name": "Review the mockup",
+      "text": "It arrives in 1 to 2 business days. Look at it on a phone and on a big screen, and show the team."
+    },
+    {
+      "name": "Lock the roster",
+      "text": "Collect each player's number and size. Settle duplicate numbers before you enter anything."
+    },
+    {
+      "name": "Approve and order",
+      "text": "Production starts after approval. Count three to four weeks back from your first game."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Coaches and league directors starting from nothing but a team name and two colors.",
+      "lacks": "Three to four weeks from approval to delivery, so a request made the week before tip-off is too late.",
+      "note": "The design request asks what you want to make, your colors and any reference images. Revisions happen before you pay."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that want reversible jerseys and shorts built online by a maker with its own factories.",
+      "lacks": "You create it yourself in the builder. Mockups take 2 to 4 business days on the pages that state it."
+    },
+    {
+      "id": "customink",
+      "fit": "Small groups that need names and numbers on a stock jersey or reversible tank in about two weeks.",
+      "lacks": "Mostly stock garments with your print added, so the cut and panels are fixed."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs with a team dealer that want cut-and-sew Juice sublimation.",
+      "lacks": "A dealer account places the order. There is no public checkout."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Schools and clubs that want Nike and already work with an authorized dealer.",
+      "lacks": "Build-to-order uniforms take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "Creating a uniform from scratch has three stages: a brief, a mockup and a roster. Teams that struggle usually skip the brief and argue over the mockup.",
+    "Wooter's request form is the brief. A designer turns it into a mockup at no charge, and you ask for changes until it is right. Then the roster goes in: each player's name, number, size and quantity.",
+    "From there it is production. Wooter's basketball page says most orders finish in 3 to 4 weeks after you approve the design, with rush options."
+  ],
+  "criteria": [
+    {
+      "name": "Starts from nothing",
+      "text": "Works with a name and colors, with no artwork needed."
+    },
+    {
+      "name": "Cost of the mockup",
+      "text": "Free, or billed before you have seen anything."
+    },
+    {
+      "name": "Revisions",
+      "text": "Changes before payment, not after."
+    },
+    {
+      "name": "Roster entry",
+      "text": "Names, numbers and sizes per player."
+    },
+    {
+      "name": "Time to tip-off",
+      "text": "Weeks from approval to delivery."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do I need to get started?",
+      "a": "A team name, your colors and a rough idea of the look. A logo helps but is not required."
+    },
+    {
+      "q": "We have no logo. Can we still create uniforms?",
+      "a": "Yes. Say so in the request. A wordmark built from the team name is a normal starting point."
+    },
+    {
+      "q": "How many revisions do we get?",
+      "a": "Ask for changes on the mockup until it is right. Production starts only after you approve it."
+    },
+    {
+      "q": "Can we create warmups to match?",
+      "a": "Yes. Wooter sells shooting shirts, warmup jackets and hoodies that take the same design."
+    },
+    {
+      "q": "Is there a minimum order?",
+      "a": "One on most items. Wooter's product pages list a minimum quantity of one, and the price per piece drops as the order grows."
+    }
+  ],
+  "related": [
+    "basketballjerseymaker.com",
+    "basketballjerseydesign.com",
+    "basketballuniformgenerator.com",
+    "reversiblebasketballjerseys.com",
+    "basketballpracticejerseys.com",
+    "customjerseybuilder.com",
+    "jerseysizechart.com"
+  ]
+}

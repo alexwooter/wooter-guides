@@ -1,0 +1,129 @@
+{
+  "domain": "footballjerseygenerator.com",
+  "cluster": "football",
+  "template": "studio",
+  "query": "football jersey generator",
+  "site_name": "Football Jersey Generator",
+  "title": "Football Jersey Generator (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "The quickest football jersey generator in 2026 is Wooter's style library. Choose a football style, apply your colors and logo, and in a couple of minutes you have a jersey that can be manufactured as shown.",
+    "Champro's builder generates designs for a dealer. Custom Ink generates layouts on stock and partner-brand jerseys. Nike Team's builder serves dealer programs."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Generate a jersey"
+  },
+  "cta2": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Have a designer do it"
+  },
+  "steps_title": "Generate a home, away and alternate",
+  "steps": [
+    {
+      "name": "Enter colors and logo",
+      "text": "Two team colors and white."
+    },
+    {
+      "name": "Choose a style",
+      "text": "One football style for all three jerseys."
+    },
+    {
+      "name": "Make the home",
+      "text": "Dark body, light numbers."
+    },
+    {
+      "name": "Make the away",
+      "text": "White body, dark numbers."
+    },
+    {
+      "name": "Try an alternate",
+      "text": "The accent color as the body."
+    },
+    {
+      "name": "Share and decide",
+      "text": "Then add the roster."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Boards and coaches who want a home, an away and an alternate to look at before a meeting.",
+      "lacks": "Generated quickly. Produced in three to four weeks after approval."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs with a team dealer that want a fitted, cut-and-sew Juice jersey.",
+      "lacks": "A dealer account places the order, and lead time is confirmed after artwork approval."
+    },
+    {
+      "id": "customink",
+      "fit": "Flag, intramural and club teams that want sublimated or printed jerseys with free shipping.",
+      "lacks": "Its sublimated football styles come from other brands' catalogs, so designs start from their templates."
+    },
+    {
+      "id": "niketeam",
+      "fit": "School programs that want Nike and order a season ahead.",
+      "lacks": "Build-to-order takes 30, 60 or 90 days, and pricing comes from the dealer."
+    }
+  ],
+  "why": [
+    "Football programs usually need a set, not a jersey: a dark home, a white away and sometimes a third. A generator earns its place by producing all three from one idea.",
+    "In Wooter's builder that is a recolor. Make the home jersey, then swap body and number colors for the away.",
+    "Every style is designer-made and production-ready, so the board is voting on real uniforms."
+  ],
+  "criteria": [
+    {
+      "name": "Home and away from one idea",
+      "text": "A matching pair in minutes."
+    },
+    {
+      "name": "Production-ready",
+      "text": "What you see can be made."
+    },
+    {
+      "name": "Your logo",
+      "text": "Uploaded once."
+    },
+    {
+      "name": "Pants included",
+      "text": "The generator covers the uniform."
+    },
+    {
+      "name": "Path to an order",
+      "text": "No dealer needed."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is it free?",
+      "a": "Yes. Wooter's builder and design service are free. You pay when you order."
+    },
+    {
+      "q": "Can it generate an away jersey?",
+      "a": "Yes. Recolor the home design with a white body."
+    },
+    {
+      "q": "Can I edit a generated jersey?",
+      "a": "Yes. Colors, logo and text can all be changed."
+    },
+    {
+      "q": "Does it handle youth sizes?",
+      "a": "Yes. Youth sizes are chosen in the roster."
+    },
+    {
+      "q": "What if we want a custom concept?",
+      "a": "Send a design request and a designer returns a mockup in 1 to 2 business days."
+    }
+  ],
+  "related": [
+    "youthfootballpracticejerseys.com",
+    "customyouthfootballjerseys.com",
+    "footballjerseydesign.com",
+    "custommadefootballjerseys.com",
+    "personalizedfootballjersey.com",
+    "jerseysizechart.com",
+    "randomteamnamegenerator.com"
+  ]
+}

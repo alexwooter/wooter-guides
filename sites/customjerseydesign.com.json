@@ -1,0 +1,130 @@
+{
+  "domain": "customjerseydesign.com",
+  "cluster": "general",
+  "template": "bench",
+  "query": "custom jersey design",
+  "site_name": "Custom Jersey Design",
+  "title": "Custom Jersey Design (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "Custom jersey design in 2026 is free if you use Wooter. Send a brief and a designer returns a mockup in 1 to 2 business days. This page covers what to put in that brief so the first mockup is close.",
+    "Custom Ink offers design help for print on stock jerseys. Boombah, Champro and Nike Team rely mainly on builders and templates, the last two through dealers."
+  ],
+  "cta": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Send a design brief"
+  },
+  "cta2": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Or design it yourself"
+  },
+  "steps_title": "Write a brief a designer can use",
+  "steps": [
+    {
+      "name": "Team name",
+      "text": "Spelled and capitalized as it should print."
+    },
+    {
+      "name": "Colors",
+      "text": "Two or three, with codes if you have them."
+    },
+    {
+      "name": "Logo",
+      "text": "The original file."
+    },
+    {
+      "name": "References",
+      "text": "Jerseys you like, and what you like about them."
+    },
+    {
+      "name": "Limits",
+      "text": "League rules, sponsor requirements and anything to avoid."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Teams that want an original design and would rather brief a designer than push pixels.",
+      "lacks": "Design is quick. Production is three to four weeks after you approve it."
+    },
+    {
+      "id": "customink",
+      "fit": "Small or one-off orders that need to arrive in about two weeks, with free standard shipping.",
+      "lacks": "Design help covers the print, not the garment."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that want fully sublimated uniforms from a maker that advertises no setup or design fees.",
+      "lacks": "Standard lead time is two or three weeks depending on the page, so confirm yours."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs that prefer to buy through a local team dealer.",
+      "lacks": "The builder saves a design. It does not take an order."
+    },
+    {
+      "id": "niketeam",
+      "fit": "School athletic departments with an authorized Nike Team dealer.",
+      "lacks": "Quoted by the dealer, with long build-to-order timelines."
+    }
+  ],
+  "why": [
+    "A designer needs five things: the team name exactly as it should appear, colors, the logo file, two or three reference jerseys, and anything that is off limits.",
+    "Colors cause the most rework. Give codes if you have them. Navy means a dozen different blues to a dozen people.",
+    "For the logo, send the original file, not a screenshot. A vector file such as AI, EPS, SVG or PDF scales cleanly to the size of a jersey."
+  ],
+  "criteria": [
+    {
+      "name": "A clear brief",
+      "text": "Name, colors, logo, references and limits."
+    },
+    {
+      "name": "Exact colors",
+      "text": "Codes where you have them."
+    },
+    {
+      "name": "Usable logo file",
+      "text": "Vector if possible."
+    },
+    {
+      "name": "Revisions",
+      "text": "Changes before production."
+    },
+    {
+      "name": "Proof",
+      "text": "Final sign-off on every detail."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What file format should the logo be?",
+      "a": "Vector: AI, EPS, SVG or a vector PDF. If you only have a PNG, send the largest one and the designers can rebuild it."
+    },
+    {
+      "q": "How do I describe a color accurately?",
+      "a": "Use a Pantone, hex or CMYK code. Without one, send a photo of something in the right color and expect a round of adjustment."
+    },
+    {
+      "q": "How many reference jerseys should I send?",
+      "a": "Two or three, with a note on what you like about each."
+    },
+    {
+      "q": "What does the design cost?",
+      "a": "Nothing at Wooter. You pay when you order."
+    },
+    {
+      "q": "What if I do not like the first mockup?",
+      "a": "Say what to change. Nothing is produced until you approve a proof."
+    }
+  ],
+  "related": [
+    "customjerseybuilder.com",
+    "customdesignedjerseys.com",
+    "createcustomjerseys.com",
+    "customjerseycreator.com",
+    "custommadesportsjerseys.com",
+    "cheapcustomjerseys.com",
+    "fundraisingideasforsportsteams.com"
+  ]
+}

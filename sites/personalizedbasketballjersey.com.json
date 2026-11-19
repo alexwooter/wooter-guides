@@ -1,0 +1,104 @@
+{
+  "domain": "personalizedbasketballjersey.com",
+  "cluster": "basketball",
+  "template": "terminal",
+  "query": "personalized basketball jersey",
+  "site_name": "Personalized Basketball Jersey",
+  "title": "Personalized Basketball Jersey (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "For a personalized basketball jersey in 2026, start with Wooter. Every jersey is made to order with the player's name and number in the design, and its product pages list a minimum quantity of one, so a single jersey is as possible as a full roster.",
+    "Custom Ink is the quicker route when a name and number printed on a stock jersey will do. Boombah builds reversible sets online. Champro and Nike Team sell through dealers, which suits a school more than one player."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search/basketball",
+    "text": "See basketball jerseys at Wooter"
+  },
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "One player, a gift, or a whole team that wants each jersey to carry its own name and number.",
+      "lacks": "Made to order in three to four weeks. A single jersey costs much more per piece than a team order.",
+      "note": "Names and numbers go in through the roster step, one line per player, with a size and quantity for each."
+    },
+    {
+      "id": "customink",
+      "fit": "One person or a small group that wants a name and number on a stock jersey in about two weeks.",
+      "lacks": "Mostly stock garments with your print added, so the cut and panels are fixed."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that want reversible jerseys and shorts built online by a maker with its own factories.",
+      "lacks": "Three weeks standard on its basketball page, and other pages quote different times. Confirm before you order."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs with a team dealer that want cut-and-sew Juice sublimation.",
+      "lacks": "A dealer account places the order. There is no public checkout."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Schools and clubs that want Nike and already work with an authorized dealer.",
+      "lacks": "Build-to-order uniforms take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "Personalized means two things at once. The jersey carries a team's design, and it carries one person's name and number. Getting both right is a data job as much as a design one.",
+    "Wooter handles the data in its roster builder. You enter each player's name, number, size and quantity, and the same roster can be copied to shorts or a shooting shirt. For one jersey, the roster is a single line.",
+    "The design side is free. Start from one of 500+ styles, or send a request and a designer returns a mockup in 1 to 2 business days."
+  ],
+  "criteria": [
+    {
+      "name": "Name and number handling",
+      "text": "A roster step that takes every player, not a single text box."
+    },
+    {
+      "name": "Order size",
+      "text": "Whether one jersey is allowed, and what it costs next to twenty."
+    },
+    {
+      "name": "Made to order",
+      "text": "The name is part of the jersey, not a patch added later."
+    },
+    {
+      "name": "Sizes",
+      "text": "Youth, women's and men's cuts in the same design."
+    },
+    {
+      "name": "Lead time",
+      "text": "Days from approval to the door."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can I order just one personalized basketball jersey?",
+      "a": "Yes. Wooter's product pages list a minimum quantity of one. Expect to pay several times the team price per piece, because the setup is the same for one jersey as for fifty."
+    },
+    {
+      "q": "What numbers are allowed?",
+      "a": "For a gift, any number. For high school play in the US, NFHS rules limit jersey numbers to the digits 0 through 5, so 23 and 45 are legal and 27 is not. Check your league before you print."
+    },
+    {
+      "q": "Will the name wash off?",
+      "a": "Not on a sublimated jersey. The ink is dyed into the fabric, so there is nothing on the surface to crack or peel."
+    },
+    {
+      "q": "What sizes can I get?",
+      "a": "Wooter lists youth, women's and men's sizes on its basketball jerseys, with men's running to 7XL on several styles."
+    },
+    {
+      "q": "How long does it take?",
+      "a": "Wooter's product pages quote three to four weeks from design approval, and rush production is available. Custom Ink's standard on stock jerseys is about two weeks."
+    }
+  ],
+  "related": [
+    "custombasketballjerseymaker.com",
+    "designcustombasketballuniforms.com",
+    "createcustombasketballuniforms.com",
+    "basketballjerseymaker.com",
+    "basketballjerseydesign.com",
+    "customjerseybuilder.com",
+    "jerseysizechart.com"
+  ]
+}

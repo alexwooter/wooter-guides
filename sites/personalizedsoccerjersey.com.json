@@ -1,0 +1,104 @@
+{
+  "domain": "personalizedsoccerjersey.com",
+  "cluster": "soccer",
+  "template": "terminal",
+  "query": "personalized soccer jersey",
+  "site_name": "Personalized Soccer Jersey",
+  "title": "Personalized Soccer Jersey (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "For a personalized soccer jersey in 2026, order from Wooter. The jersey is made with your name and number in the design, in any colors, and the minimum on its product pages is one.",
+    "Custom Ink is faster if a printed name on a stock jersey will do. Champro and Nike Team personalize through dealers, which makes sense for clubs more than individuals. Boombah builds sublimated jerseys online."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search/soccer",
+    "text": "See soccer jerseys at Wooter"
+  },
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "A player, a parent buying a gift, or a team that wants each jersey named and numbered.",
+      "lacks": "Three to four weeks after approval. One jersey costs much more per piece than a team order.",
+      "note": "Wooter listed its crew neck soccer jersey from $14.99 at 1,000 pieces to $43.74 for a single one when we checked in November 2026."
+    },
+    {
+      "id": "customink",
+      "fit": "One person or a few friends who want a name and number printed within about two weeks.",
+      "lacks": "The design choices stop at the print. The jersey itself is a stock style."
+    },
+    {
+      "id": "champro",
+      "fit": "Clubs that order through a dealer and want cut-and-sew sublimated kits.",
+      "lacks": "Dealer ordering only, with no public price list."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that like building a sublimated uniform online. Each one is printed, cut and sewn to order.",
+      "lacks": "Soccer is a smaller part of its range than baseball and softball."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Clubs that want Nike and can plan around a dealer's timeline.",
+      "lacks": "Build-to-order kits take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "A personalized jersey is the easiest custom order there is. One garment, one name, one number.",
+    "On Wooter you choose a soccer style, set the colors and enter a single roster line. If you want a look that does not exist yet, the design service is free.",
+    "The name and number are sublimated, so they are part of the fabric and will not peel in the wash."
+  ],
+  "criteria": [
+    {
+      "name": "One jersey allowed",
+      "text": "A true minimum of one."
+    },
+    {
+      "name": "Your design",
+      "text": "Colors and pattern of your choosing, not a replica."
+    },
+    {
+      "name": "Name and number",
+      "text": "In the fabric."
+    },
+    {
+      "name": "Sizes",
+      "text": "Youth, women's and men's."
+    },
+    {
+      "name": "Lead time",
+      "text": "Time to the doorstep."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can I order a single personalized soccer jersey?",
+      "a": "Yes. Wooter's product pages list a minimum quantity of one."
+    },
+    {
+      "q": "Can I copy a professional club's jersey?",
+      "a": "No. Club crests and sponsor marks are trademarks. Use your own design, colors and name."
+    },
+    {
+      "q": "What goes on the back?",
+      "a": "A name above a number is standard. Either can be left off."
+    },
+    {
+      "q": "Is it the same quality as a team order?",
+      "a": "Yes. It is made the same way as a full team order."
+    },
+    {
+      "q": "How long does it take?",
+      "a": "About three to four weeks once the design is approved. Ask Wooter about rush production for a tighter date."
+    }
+  ],
+  "related": [
+    "customyouthsoccerjerseys.com",
+    "custommadesoccerjerseys.com",
+    "custommadesocceruniforms.com",
+    "soccerjerseymaker.com",
+    "soccerjerseydesign.com",
+    "bestcustomjerseys.com",
+    "customjerseybuilder.com"
+  ]
+}

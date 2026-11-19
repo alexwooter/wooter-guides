@@ -1,0 +1,130 @@
+{
+  "domain": "soccerjerseydesign.com",
+  "cluster": "soccer",
+  "template": "bench",
+  "query": "soccer jersey design",
+  "site_name": "Soccer Jersey Design",
+  "title": "Soccer Jersey Design (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "Soccer jersey design in 2026 rewards clubs that keep it simple: a pattern with history, a crest with room around it and a color nobody else in the league wears. Wooter's builder has soccer styles to start from, and its designers will draw yours for free.",
+    "Custom Ink handles printed designs on stock kits. Champro and Nike Team offer template libraries through dealers. Boombah's builder is another place to try layouts."
+  ],
+  "cta": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Get a free kit design"
+  },
+  "cta2": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Try it in the builder"
+  },
+  "steps_title": "Design a kit with an identity",
+  "steps": [
+    {
+      "name": "Scout the league",
+      "text": "List the colors your opponents wear."
+    },
+    {
+      "name": "Choose the pattern",
+      "text": "One classic layout."
+    },
+    {
+      "name": "Place the crest and sponsor",
+      "text": "Give each some empty space."
+    },
+    {
+      "name": "Design the away kit",
+      "text": "Same layout, opposite colors."
+    },
+    {
+      "name": "Dress the keeper",
+      "text": "A contrasting color in the same style."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Clubs that want a kit with its own identity and a designer to help.",
+      "lacks": "A fresh design still takes three to four weeks to produce."
+    },
+    {
+      "id": "customink",
+      "fit": "Rec and small-sided teams that want names and numbers on a stock kit, with free standard shipping.",
+      "lacks": "Design ends at the print area of a stock jersey."
+    },
+    {
+      "id": "champro",
+      "fit": "Clubs that order through a dealer and want cut-and-sew sublimated kits.",
+      "lacks": "Dealer ordering only, with no public price list."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that like building a sublimated uniform online. Each one is printed, cut and sewn to order.",
+      "lacks": "Soccer is a smaller part of its range than baseball and softball."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Clubs that want Nike and can plan around a dealer's timeline.",
+      "lacks": "Build-to-order kits take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "Soccer has a short list of patterns that everyone recognizes: vertical stripes, hoops, halves, a sash, a single chest band. Choosing one ties a new club to a hundred years of the game.",
+    "Color does the rest. Look at who you play and pick what they do not wear. A distinctive color saves you from changing kits every other week.",
+    "Leave space around the crest and keep the sponsor to one color where you can. Wooter's designers will mock up options from a short brief in 1 to 2 business days."
+  ],
+  "criteria": [
+    {
+      "name": "A recognizable pattern",
+      "text": "One of the game's classic layouts, or a clear new idea."
+    },
+    {
+      "name": "Crest space",
+      "text": "Room for the badge to be seen."
+    },
+    {
+      "name": "Distinct color",
+      "text": "Different from the teams you play."
+    },
+    {
+      "name": "Sponsor fit",
+      "text": "A sponsor mark that sits well on the kit."
+    },
+    {
+      "name": "Away version",
+      "text": "A second kit from the same idea."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the classic soccer jersey designs?",
+      "a": "Stripes, hoops, halves, quarters, a sash and a chest band. Solid with contrast trim is the most common of all."
+    },
+    {
+      "q": "How do we design an away kit?",
+      "a": "Keep the layout and invert the colors, or move to a neutral such as white or black with club-color trim."
+    },
+    {
+      "q": "Where should the sponsor go?",
+      "a": "Centered on the chest. Check your league's rules on size."
+    },
+    {
+      "q": "What color should the goalkeeper wear?",
+      "a": "One that differs from both teams' outfield players and the referee."
+    },
+    {
+      "q": "Can I see a design before paying?",
+      "a": "Yes. Wooter's mockups are free."
+    }
+  ],
+  "related": [
+    "soccerjerseygenerator.com",
+    "socceruniformsforteams.com",
+    "personalizedsoccerjersey.com",
+    "customyouthsoccerjerseys.com",
+    "custommadesoccerjerseys.com",
+    "bestcustomjerseys.com",
+    "customjerseybuilder.com"
+  ]
+}

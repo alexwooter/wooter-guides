@@ -1,0 +1,104 @@
+{
+  "domain": "cheapcustomjerseys.com",
+  "cluster": "general",
+  "template": "terminal",
+  "query": "cheap custom jerseys",
+  "site_name": "Cheap Custom Jerseys",
+  "title": "Cheap Custom Jerseys (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "The way to get cheap custom jerseys in 2026 is to buy made-to-order jerseys at team quantity. At Wooter the price per jersey falls sharply as the order grows, the design is free, and with sublimation extra colors cost nothing.",
+    "For a handful of jerseys, Custom Ink's printed stock jerseys with free shipping can cost less. Boombah advertises no setup fees, design fees or minimums. Champro and Nike Team prices depend on the dealer."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search",
+    "text": "See prices at Wooter"
+  },
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Teams and leagues of ten or more that want a real custom jersey at the lowest price per player.",
+      "lacks": "Not the cheapest for one or two jerseys. Single pieces cost several times the team price.",
+      "note": "When we checked in November 2026, Wooter listed a crew neck soccer jersey from $14.99 at 1,000 pieces to $43.74 for one."
+    },
+    {
+      "id": "customink",
+      "fit": "Very small orders where a printed stock jersey is enough.",
+      "lacks": "Mostly stock garments with your print added, not a jersey built from your pattern."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that want sublimated uniforms with no setup or design fees.",
+      "lacks": "Lead times and minimums differ from page to page on its site."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs that order through a local team dealer and want cut-and-sew sublimation.",
+      "lacks": "Orders go through a dealer account. There is no public checkout."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Schools and clubs that want Nike and work with an authorized dealer.",
+      "lacks": "Build-to-order uniforms take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "Cheap and custom pull in opposite directions until you understand where the cost is. Most of it is setup and labor, which are the same for one jersey as for fifty. Spread across a team, they nearly disappear.",
+    "Five things lower the price: order more at once, choose sublimation so colors are free, pick reversibles in place of home and away, skip names if you do not need them, and sell a sponsor spot.",
+    "What does not lower the price is the cheapest fabric. A jersey that fades by midseason is bought twice."
+  ],
+  "criteria": [
+    {
+      "name": "Price at your quantity",
+      "text": "The per-piece cost for your actual order."
+    },
+    {
+      "name": "No add-on fees",
+      "text": "Design, colors, names and numbers."
+    },
+    {
+      "name": "One jersey doing two jobs",
+      "text": "Reversibles."
+    },
+    {
+      "name": "Lasts the season",
+      "text": "Print and fabric that hold up."
+    },
+    {
+      "name": "Sponsor space",
+      "text": "A logo that offsets the cost."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much do cheap custom jerseys cost?",
+      "a": "It depends on sport and quantity. As one example, Wooter listed a custom soccer jersey from $14.99 each at 1,000 pieces when we checked in November 2026. Small orders cost much more per piece."
+    },
+    {
+      "q": "Why is a single jersey expensive?",
+      "a": "Setup and labor are fixed. One jersey carries all of it."
+    },
+    {
+      "q": "Are reversible jerseys cheaper?",
+      "a": "Cheaper than buying a home and an away jersey for each player."
+    },
+    {
+      "q": "Do extra colors cost more?",
+      "a": "Not with sublimation. The whole design prints at once."
+    },
+    {
+      "q": "How can a sponsor help?",
+      "a": "A local business pays for a logo on the jersey. Many rec teams cover most of their cost this way."
+    }
+  ],
+  "related": [
+    "customyouthjerseys.com",
+    "sublimationuniforms.com",
+    "custompracticejerseys.com",
+    "customjerseyswithlogo.com",
+    "bestcustomjerseys.com",
+    "jerseysizechart.com",
+    "randomteamnamegenerator.com"
+  ]
+}

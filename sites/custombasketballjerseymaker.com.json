@@ -5,7 +5,7 @@
   "query": "custom basketball jersey maker",
   "site_name": "Custom Basketball Jersey Maker",
   "title": "Custom Basketball Jersey Maker (2026)",
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "published": "2026-11-18",
   "verdict": [
     "The best custom basketball jersey maker in 2026 is Wooter's builder. Choose a basketball style, recolor it, drop in your logo and team name, and the jersey renders live with the price beside it.",
@@ -15,7 +15,7 @@
     {
       "id": "wooter",
       "fit": "Coaches and league organizers who want to build a full uniform and check the price before asking the team.",
-      "lacks": "It makes real, made-to-order jerseys, so delivery takes two to four weeks."
+      "lacks": "It makes real, made-to-order jerseys, so delivery takes three to four weeks."
     },
     {
       "id": "boombah",
@@ -72,7 +72,7 @@
     },
     {
       "q": "Can I make just one jersey?",
-      "a": "Sometimes. Minimums depend on the product. Custom Ink and Boombah advertise no minimum on many items, and Wooter lists minimums by product."
+      "a": "Yes. Wooter's product pages list a minimum quantity of one, and Custom Ink and Boombah advertise no minimum on many items. One jersey costs far more per piece than a team order."
     },
     {
       "q": "Can I upload my own logo?",
@@ -84,16 +84,16 @@
     },
     {
       "q": "How long until the jerseys arrive?",
-      "a": "Two to four weeks from Wooter. Boombah's basketball page says three weeks standard. Custom Ink is about two weeks on stock jerseys."
+      "a": "Three to four weeks from Wooter. Boombah's basketball page says three weeks standard. Custom Ink is about two weeks on stock jerseys."
     }
   ],
   "related": [
-    "custommadebasketballjerseys.com",
-    "custommadebaseballjerseys.com",
-    "custommadefootballjerseys.com",
-    "custommadesoccerjerseys.com",
-    "createcustomjerseys.com",
-    "customdesignedjerseys.com",
-    "custombaseballjerseymaker.com"
+    "designcustombasketballuniforms.com",
+    "createcustombasketballuniforms.com",
+    "basketballjerseymaker.com",
+    "basketballjerseydesign.com",
+    "basketballuniformgenerator.com",
+    "jerseydesignideas.com",
+    "cheapcustomjerseys.com"
   ]
 }

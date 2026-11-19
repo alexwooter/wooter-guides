@@ -1,0 +1,130 @@
+{
+  "domain": "basketballjerseydesign.com",
+  "cluster": "basketball",
+  "template": "bench",
+  "query": "basketball jersey design",
+  "site_name": "Basketball Jersey Design",
+  "title": "Basketball Jersey Design (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "Good basketball jersey design comes down to contrast, a readable number and one strong idea. Wooter's builder gives you 500+ professionally designed basketball and team styles to start from, and its designers will draw an original for free.",
+    "Boombah's builder is a solid second place to look for layouts. Custom Ink covers simple printed designs. Champro and Nike Team offer their own template libraries through dealers."
+  ],
+  "cta": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Get a free jersey design"
+  },
+  "cta2": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Try it in the builder"
+  },
+  "steps_title": "Design a jersey that reads from the stands",
+  "steps": [
+    {
+      "name": "Squint test",
+      "text": "Mock up the body and number colors first. Step back from the screen. If the number is hard to read, change it now."
+    },
+    {
+      "name": "One idea",
+      "text": "Choose a single feature for the jersey. Side panels and chest stripes are the safest."
+    },
+    {
+      "name": "Type",
+      "text": "Block numbers, and a name in block or script. Two typefaces at most."
+    },
+    {
+      "name": "Trim",
+      "text": "Collar and armhole trim in the accent color ties it together."
+    },
+    {
+      "name": "Shorts",
+      "text": "Repeat the one idea on the shorts."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Teams that want a design with some thought in it and a designer to call on.",
+      "lacks": "A design made for you still needs three to four weeks to become jerseys."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that want reversible jerseys and shorts built online by a maker with its own factories.",
+      "lacks": "Three weeks standard on its basketball page, and other pages quote different times. Confirm before you order."
+    },
+    {
+      "id": "customink",
+      "fit": "Small groups that need names and numbers on a stock jersey or reversible tank in about two weeks.",
+      "lacks": "Design is limited to what prints on a stock jersey."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs with a team dealer that want cut-and-sew Juice sublimation.",
+      "lacks": "A dealer account places the order. There is no public checkout."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Schools and clubs that want Nike and already work with an authorized dealer.",
+      "lacks": "Build-to-order uniforms take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "Start with contrast. Light numbers on a dark body or dark on light. If you squint and the number disappears, the design has failed, however good it looks up close.",
+    "Then pick one idea and commit to it: a side panel, a chest stripe, a gradient or a pattern in the trim. Jerseys with three ideas look busy from the stands.",
+    "On Wooter you can test this quickly. Recolor a finished style in the builder, or describe the idea in a design request and get a mockup in 1 to 2 business days."
+  ],
+  "criteria": [
+    {
+      "name": "Readable numbers",
+      "text": "Legible from across the gym."
+    },
+    {
+      "name": "Contrast",
+      "text": "Body, trim and numbers that separate cleanly."
+    },
+    {
+      "name": "One clear idea",
+      "text": "A single design element carried through."
+    },
+    {
+      "name": "Rule fit",
+      "text": "High school limits on torso color and number size."
+    },
+    {
+      "name": "Help on hand",
+      "text": "A designer when you need one."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What colors work best on a basketball jersey?",
+      "a": "Two main colors and one accent. Put the accent in the trim or a thin outline on the numbers."
+    },
+    {
+      "q": "How big should the numbers be?",
+      "a": "At least 4 inches high on the front and 6 on the back under NFHS high school rules. Bigger reads better."
+    },
+    {
+      "q": "Can I put a pattern on the body?",
+      "a": "For rec and travel teams, yes. For high school, NFHS rules require a single solid color on the torso, so move the pattern to the side panels."
+    },
+    {
+      "q": "Which fonts work for numbers?",
+      "a": "Block and varsity styles read best. Script suits a team name better than a number."
+    },
+    {
+      "q": "Can someone design it for me?",
+      "a": "Yes. Wooter's design service is free and returns a mockup in 1 to 2 business days."
+    }
+  ],
+  "related": [
+    "basketballuniformgenerator.com",
+    "reversiblebasketballjerseys.com",
+    "basketballpracticejerseys.com",
+    "basketballteamnames.com",
+    "customyouthbasketballjerseys.com",
+    "fundraisingideasforsportsteams.com",
+    "bestcustomjerseys.com"
+  ]
+}

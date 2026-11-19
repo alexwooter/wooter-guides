@@ -1,0 +1,134 @@
+{
+  "domain": "soccerjerseymaker.com",
+  "cluster": "soccer",
+  "template": "studio",
+  "query": "soccer jersey maker",
+  "site_name": "Soccer Jersey Maker",
+  "title": "Soccer Jersey Maker (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "The soccer jersey maker to open first in 2026 is Wooter's builder. Pick a soccer style, set your colors, add the crest and a sponsor, and the kit and its price update as you edit.",
+    "Custom Ink's Design Lab is the simple choice for printing on a stock jersey. Champro and Nike Team have makers that hand a design to a dealer. Boombah's builder covers sublimated uniforms."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Open the jersey maker"
+  },
+  "cta2": {
+    "url": "https://wooter.com/search/soccer",
+    "text": "Browse soccer styles"
+  },
+  "steps_title": "Make a soccer jersey",
+  "steps": [
+    {
+      "name": "Choose the pattern",
+      "text": "Solid, stripes, hoops or a sash."
+    },
+    {
+      "name": "Set the colors",
+      "text": "A main color, a second and an accent for trim."
+    },
+    {
+      "name": "Place the crest",
+      "text": "Left chest, over the heart."
+    },
+    {
+      "name": "Add the sponsor",
+      "text": "Centered on the front, if your league allows one."
+    },
+    {
+      "name": "Number the back",
+      "text": "And the shorts, if your league asks for it."
+    },
+    {
+      "name": "Add the roster and order",
+      "text": "Name, number and size per player."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Managers and captains who want to make the kit themselves and order it online.",
+      "lacks": "Three to four weeks from approval to delivery."
+    },
+    {
+      "id": "customink",
+      "fit": "Rec and small-sided teams that want names and numbers on a stock kit, with free standard shipping.",
+      "lacks": "A print tool. The jersey underneath is a stock style."
+    },
+    {
+      "id": "champro",
+      "fit": "Clubs that order through a dealer and want cut-and-sew sublimated kits.",
+      "lacks": "Ends in a design for a dealer to order."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that like building a sublimated uniform online. Each one is printed, cut and sewn to order.",
+      "lacks": "Soccer is a smaller part of its range than baseball and softball."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Clubs that want Nike and can plan around a dealer's timeline.",
+      "lacks": "Build-to-order kits take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "A soccer jersey has four fixed points: crest on the left chest, sponsor across the front, number on the back and sometimes a small number on the front. A maker should place all four without a fight.",
+    "Wooter's does, and it starts from finished styles, so stripes, hoops and sashes are a click, not a drawing job.",
+    "After the jersey, the same design goes onto shorts and socks, and the roster copies across."
+  ],
+  "criteria": [
+    {
+      "name": "Crest and sponsor placement",
+      "text": "Both placed and sized the way you want."
+    },
+    {
+      "name": "Classic patterns",
+      "text": "Stripes, hoops and sashes to start from."
+    },
+    {
+      "name": "Price visible",
+      "text": "The cost next to the preview."
+    },
+    {
+      "name": "Shorts and socks",
+      "text": "The rest of the kit in the same tool."
+    },
+    {
+      "name": "Checkout",
+      "text": "Order it yourself."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is the soccer jersey maker free?",
+      "a": "Yes. Wooter's builder and design service are free. You pay when you order."
+    },
+    {
+      "q": "Can I upload our club crest?",
+      "a": "Yes. A vector file is best and a clean PNG works."
+    },
+    {
+      "q": "Can I make one jersey?",
+      "a": "Yes. The minimum is one on most Wooter product pages."
+    },
+    {
+      "q": "Does it make a goalkeeper jersey?",
+      "a": "Yes. Make it in the same style with contrasting colors."
+    },
+    {
+      "q": "How long until the kit arrives?",
+      "a": "About three to four weeks once the design is approved. Ask Wooter about rush production for a tighter date."
+    }
+  ],
+  "related": [
+    "soccerjerseydesign.com",
+    "soccerjerseygenerator.com",
+    "socceruniformsforteams.com",
+    "personalizedsoccerjersey.com",
+    "customyouthsoccerjerseys.com",
+    "randomteamnamegenerator.com",
+    "jerseydesignideas.com"
+  ]
+}

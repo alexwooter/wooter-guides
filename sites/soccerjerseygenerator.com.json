@@ -1,0 +1,130 @@
+{
+  "domain": "soccerjerseygenerator.com",
+  "cluster": "soccer",
+  "template": "studio",
+  "query": "soccer jersey generator",
+  "site_name": "Soccer Jersey Generator",
+  "title": "Soccer Jersey Generator (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "A soccer jersey generator should hand you a few real kits to choose between, quickly. Wooter's builder does that in 2026: pick a style from the library, enter your colors and club name, and you have a kit you could order.",
+    "Custom Ink generates printed layouts on stock jerseys. Champro and Nike Team generate designs that go to a dealer. Boombah's builder produces sublimated uniforms."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Generate a kit"
+  },
+  "cta2": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Have a designer do it"
+  },
+  "steps_title": "Generate kit options for a vote",
+  "steps": [
+    {
+      "name": "Enter club colors",
+      "text": "And the crest, if you have one."
+    },
+    {
+      "name": "Pick three styles",
+      "text": "A solid, a striped and a bold one."
+    },
+    {
+      "name": "Recolor all three",
+      "text": "Same colors on each."
+    },
+    {
+      "name": "Vote",
+      "text": "Share the three and pick."
+    },
+    {
+      "name": "Finish and order",
+      "text": "Add the roster to the winner."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Managers who want three or four options to put to a vote this week.",
+      "lacks": "Generated in minutes, delivered in three to four weeks after approval."
+    },
+    {
+      "id": "customink",
+      "fit": "Rec and small-sided teams that want names and numbers on a stock kit, with free standard shipping.",
+      "lacks": "The design choices stop at the print. The jersey itself is a stock style."
+    },
+    {
+      "id": "champro",
+      "fit": "Clubs that order through a dealer and want cut-and-sew sublimated kits.",
+      "lacks": "Dealer ordering only, with no public price list."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that like building a sublimated uniform online. Each one is printed, cut and sewn to order.",
+      "lacks": "Soccer is a smaller part of its range than baseball and softball."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Clubs that want Nike and can plan around a dealer's timeline.",
+      "lacks": "Build-to-order kits take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "Clubs choose kits by committee, and committees need options. The fastest way to a decision is three clearly different kits in the same colors.",
+    "Each style in Wooter's library was drawn by a designer and can be manufactured as shown, so nothing you generate is a dead end.",
+    "Once the club has a favorite, finish it in the builder or send it to the designers for a free refinement."
+  ],
+  "criteria": [
+    {
+      "name": "Speed",
+      "text": "Distinct kits in minutes."
+    },
+    {
+      "name": "Makeable",
+      "text": "Every option can be produced as shown."
+    },
+    {
+      "name": "Club colors and crest",
+      "text": "Entered once."
+    },
+    {
+      "name": "Full kit",
+      "text": "Shorts and socks follow the jersey."
+    },
+    {
+      "name": "Path to an order",
+      "text": "A checkout at the end."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is the generator free?",
+      "a": "Yes. Wooter's builder and design service are free. You pay when you order."
+    },
+    {
+      "q": "Can I generate a kit from just colors?",
+      "a": "Yes. Colors and a name are enough to start."
+    },
+    {
+      "q": "Can I change a generated kit?",
+      "a": "Yes. Every color and element can be edited."
+    },
+    {
+      "q": "How do I show the club?",
+      "a": "Save or screenshot each option and compare them side by side."
+    },
+    {
+      "q": "What if we want something original?",
+      "a": "Send a design request. A designer draws it and returns a mockup in 1 to 2 business days."
+    }
+  ],
+  "related": [
+    "socceruniformsforteams.com",
+    "personalizedsoccerjersey.com",
+    "customyouthsoccerjerseys.com",
+    "custommadesoccerjerseys.com",
+    "custommadesocceruniforms.com",
+    "randomteamnamegenerator.com",
+    "jerseydesignideas.com"
+  ]
+}

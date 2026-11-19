@@ -1,0 +1,142 @@
+{
+  "domain": "fundraisingideasforsportsteams.com",
+  "cluster": "general",
+  "template": "field",
+  "query": "fundraising ideas for sports teams",
+  "site_name": "Fundraising Ideas for Sports Teams",
+  "title": "Fundraising Ideas for Sports Teams (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "The best fundraising ideas for sports teams have one thing in common: people get something they want. Team gear, a sponsor's name on a jersey and a well-run event will out-raise a bake sale for the same effort.",
+    "Here are twelve ideas that work, grouped by how much work they take, with notes on what to watch for."
+  ],
+  "cta": {
+    "url": "https://wooter.com/articles/what-is-a-team-store-one-link-individual-payments-direct-shipping/",
+    "text": "See how a Fan Shop works"
+  },
+  "sections": [
+    {
+      "h": "Low effort",
+      "list": [
+        "Online team store. Supporters buy hoodies, shirts and hats. The team earns a share of each sale, and nobody handles cash or boxes.",
+        "Jersey sponsor. A local business pays to have its logo on the jersey or warmup. One good sponsor can cover the uniforms.",
+        "Restaurant night. A local restaurant gives a percentage of one evening's sales to the team.",
+        "Crowdfunding page. Good for a specific goal such as a tournament trip. Share it with a deadline."
+      ]
+    },
+    {
+      "h": "Medium effort",
+      "list": [
+        "Banner sponsors. Sell banner space at your field or gym for the season.",
+        "Skills clinic. Older players run a morning camp for younger kids.",
+        "Shoot-a-thon or hit-a-thon. Players collect pledges per basket or hit.",
+        "Car wash. Still works, especially with a sponsor matching the take."
+      ]
+    },
+    {
+      "h": "High effort, high return",
+      "list": [
+        "Host a tournament. Entry fees and concessions add up. It needs fields, referees and volunteers.",
+        "Golf outing. Popular with parents and sponsors. Plan months ahead.",
+        "Raffle or auction. Collect donated prizes. Check your state's rules on raffles first.",
+        "Discount cards. Local businesses offer deals on a card the team sells."
+      ]
+    },
+    {
+      "h": "At a glance",
+      "table": {
+        "head": [
+          "Idea",
+          "Effort",
+          "Best for"
+        ],
+        "rows": [
+          [
+            "Team store",
+            "Low",
+            "Any team, all season"
+          ],
+          [
+            "Jersey sponsor",
+            "Low",
+            "Covering uniform costs"
+          ],
+          [
+            "Restaurant night",
+            "Low",
+            "A quick boost"
+          ],
+          [
+            "Skills clinic",
+            "Medium",
+            "Programs with older players"
+          ],
+          [
+            "Pledge event",
+            "Medium",
+            "Youth teams"
+          ],
+          [
+            "Tournament",
+            "High",
+            "Clubs with field or gym access"
+          ],
+          [
+            "Golf outing",
+            "High",
+            "Established programs"
+          ]
+        ]
+      }
+    },
+    {
+      "h": "Make any fundraiser work",
+      "list": [
+        "Name the goal and the number. People give to a new set of uniforms, not to a general fund.",
+        "Set a deadline of two weeks or less.",
+        "Make it easy to pay online.",
+        "Thank sponsors in public.",
+        "Keep one person in charge of the money, and report the total."
+      ]
+    }
+  ],
+  "ranking": [],
+  "pub_title": "Where Wooter helps",
+  "why": [
+    "Two of these ideas run through Wooter. A Fan Shop is a free online team store where families and supporters buy team gear and the team earns a commission, which Wooter says is often 10 to 50 percent. Wooter handles the orders, production and shipping.",
+    "The other is the sponsor jersey. A sponsor's logo can be added to the jersey design, and the design work is free."
+  ],
+  "criteria": [],
+  "faq": [
+    {
+      "q": "What is the easiest fundraiser for a sports team?",
+      "a": "An online team store or a jersey sponsor. Neither needs volunteers on a Saturday."
+    },
+    {
+      "q": "How do jersey sponsorships work?",
+      "a": "A business pays the team, and its logo goes on the jersey, warmup or banner. Check your league's rules on sponsor logos first."
+    },
+    {
+      "q": "How much can a team store raise?",
+      "a": "It depends on how many people buy. Wooter says Fan Shop commissions are often 10 to 50 percent of sales."
+    },
+    {
+      "q": "Do we need permission to run a raffle?",
+      "a": "Often yes. Raffle rules vary by state, so check before selling tickets."
+    },
+    {
+      "q": "How do we ask a business to sponsor us?",
+      "a": "Ask in person, name a specific amount and say exactly what they get: logo placement, a banner, a thank-you post."
+    }
+  ],
+  "related": [
+    "randomteamnamegenerator.com",
+    "jerseysizechart.com",
+    "youthjerseysizechart.com",
+    "jerseynumberfont.com",
+    "makeyourownjersey.com",
+    "jerseydesignideas.com",
+    "cheapcustomjerseys.com"
+  ]
+}

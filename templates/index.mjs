@@ -71,7 +71,30 @@ function related(ctx) {
   return `<ul class="related">${items}</ul>`;
 }
 function footer(ctx) {
-  return `<footer><p>Published by <a href="${ctx.publisher.url}">${ctx.esc(ctx.publisher.legalName)}</a>, the company behind ${ctx.esc(ctx.publisher.name)}. Every other product is described from its own public materials. ${ctx.esc(ctx.publisher.disclaimer ?? "")} Updated ${month(ctx.site.updated)}.</p><p><a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a></p></footer>`;
+  const body = ctx.site.ranking.length
+    ? `Every other product is described from its own public materials. ${ctx.esc(ctx.publisher.disclaimer ?? "")}`
+    : `${ctx.esc(ctx.publisher.name)} sells custom team uniforms and apparel, and is the only seller this page links to.`;
+  return `<footer><p>Published by <a href="${ctx.publisher.url}">${ctx.esc(ctx.publisher.legalName)}</a>, the company behind ${ctx.esc(ctx.publisher.name)}. ${body} Updated ${month(ctx.site.updated)}.</p><p><a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">sitemap</a></p></footer>`;
+}
+
+// Pieces used by the design-tool and info layouts.
+function stepsList(ctx) {
+  return `<ol class="steps">${(ctx.site.steps ?? []).map((s) => `<li><strong>${ctx.esc(s.name)}.</strong> ${ctx.esc(s.text)}</li>`).join("")}</ol>`;
+}
+function tableBlock(t, esc) {
+  return `<div class="tw"><table class="data"><thead><tr>${t.head.map((h) => `<th>${esc(h)}</th>`).join("")}</tr></thead><tbody>${t.rows.map((r) => `<tr>${r.map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>${t.note ? `<p class="note">${esc(t.note)}</p>` : ""}`;
+}
+function sectionBlocks(ctx) {
+  const { esc } = ctx;
+  return (ctx.site.sections ?? []).map((s) => `<section><h2>${esc(s.h)}</h2>${(s.p ?? []).map((t) => `<p>${esc(t)}</p>`).join("")}${s.list ? `<ul class="${s.cols ? "cols" : "plain"}">${s.list.map((t) => `<li>${esc(t)}</li>`).join("")}</ul>` : ""}${s.table ? tableBlock(s.table, esc) : ""}${(s.after ?? []).map((t) => `<p>${esc(t)}</p>`).join("")}</section>`).join("\n");
+}
+// A two-word name generator. Word lists ship in the page, so it works with no server.
+function generatorBlock(ctx) {
+  const g = ctx.site.generator;
+  if (!g) return "";
+  const j = (x) => JSON.stringify(x).replace(/</g, "\\u003c");
+  return `<div class="gen"><div class="gen-label">${ctx.esc(g.label)}</div><div id="gen-out" class="gen-out" aria-live="polite">${ctx.esc(g.a[0] + " " + g.b[0])}</div><button id="gen-btn" type="button">${ctx.esc(g.button)}</button><div id="gen-keep" class="gen-keep"></div></div>
+<script>(function(){var A=${j(g.a)},B=${j(g.b)},o=document.getElementById("gen-out"),k=document.getElementById("gen-keep");function p(x){return x[Math.floor(Math.random()*x.length)]}document.getElementById("gen-btn").addEventListener("click",function(){var s=document.createElement("span");s.textContent=o.textContent;k.insertBefore(s,k.firstChild);while(k.children.length>8)k.removeChild(k.lastChild);o.textContent=p(A)+" "+p(B)})})();</script>`;
 }
 
 const shared = (ctx) => ({
@@ -280,9 +303,112 @@ ${s.footer}
 ${beacon(ctx)}</body></html>`;
 }
 
+
+/* ---------- Studio and Bench: design-tool pages. Steps first, then the tools compared ---------- */
+const studioBase = `
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.62 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.wrap{max-width:880px;margin:0 auto;padding:0 22px}
+header.top{padding:40px 0 10px}.kicker{font:700 12px/1 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--acc)}
+h1{font-size:42px;line-height:1.08;margin:14px 0 8px;letter-spacing:-.025em}h2{font-size:24px;margin:44px 0 12px;letter-spacing:-.01em}h3{font-size:18px;margin:0 0 4px}
+.meta{font-size:13px;color:var(--muted)}
+.hero{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:22px 24px;margin:22px 0 8px}.hero p{font-size:20px;line-height:1.5;margin:0 0 16px}
+.actions{display:flex;flex-wrap:wrap;gap:10px}
+.cta{display:inline-block;padding:12px 18px;background:var(--acc);color:var(--on);text-decoration:none;font-weight:700;border-radius:10px;font-size:15px}.cta.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+ol.steps{list-style:none;counter-reset:s;padding:0;margin:14px 0}ol.steps li{counter-increment:s;position:relative;padding:14px 0 14px 54px;border-bottom:1px solid var(--line)}
+ol.steps li::before{content:counter(s);position:absolute;left:0;top:12px;width:36px;height:36px;border-radius:50%;display:grid;place-items:center;background:var(--acc);color:var(--on);font:700 15px ui-monospace,Menlo,monospace}
+table.rank{width:100%;border-collapse:collapse;font-size:14.5px;margin:12px 0}.rank th{text-align:left;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--ink);padding:8px 10px 8px 0}
+.rank td{vertical-align:top;border-bottom:1px solid var(--line);padding:11px 10px 11px 0}.rank td.n{font-weight:700;width:26px;color:var(--acc)}.rank .t{color:var(--muted);font-size:12.5px}.rank tr.top td{background:var(--panel)}.rank a{color:var(--ink)}
+.entry{padding:14px 0;border-bottom:1px solid var(--line)}.entry .num{color:var(--acc);font-weight:700;margin-right:6px}.entry h3 small{color:var(--muted);font-weight:400;font-size:13px;margin-left:6px}.entry p{margin:6px 0;font-size:15.5px}
+.entry dl{display:grid;grid-template-columns:60px 1fr;gap:2px 10px;font-size:14px;margin:8px 0 0}.entry dt{color:var(--muted);font-weight:600}.entry dd{margin:0}
+ol.criteria li{margin:9px 0}
+details{padding:12px 0;border-bottom:1px solid var(--line)}summary{font-weight:650;cursor:pointer}details p{margin:6px 0 0}
+ul.related{padding-left:20px;font-size:15px;columns:2}ul.related a,a{color:var(--acc)}
+footer{margin:48px 0 40px;border-top:1px solid var(--line);padding-top:14px;font-size:13px;color:var(--muted)}footer a{color:var(--muted)}
+@media(max-width:700px){h1{font-size:31px}.rank thead{display:none}.rank td{display:block;border:0;padding:3px 0}.rank tr{display:block;border-bottom:1px solid var(--line);padding:10px 0}.rank td.n{display:inline}ul.related{columns:1}}
+`;
+const studioCss = `:root{--bg:#fbfbfe;--panel:#f1f0fb;--ink:#15142b;--muted:#63627a;--line:#e1e0ee;--acc:#4b3fd6;--on:#fff}` + studioBase;
+const benchCss = `:root{--bg:#0f1418;--panel:#161d23;--ink:#e9eef1;--muted:#8fa0aa;--line:#26323b;--acc:#ffb020;--on:#141414}` + studioBase;
+function studioPage(css) {
+  return (ctx) => {
+    const s = shared(ctx);
+    const { site, esc } = ctx;
+    const c2 = site.cta2;
+    return `${head(ctx, css)}
+<body>
+<header class="top"><div class="wrap"><div class="kicker">${esc(site.site_name)} · Design guide</div><h1>${s.title}</h1><div class="meta">Updated ${s.updated} · Published by ${esc(ctx.publisher.name)}</div></div></header>
+<main class="wrap">
+<section class="hero">${paras(site.verdict.slice(0, 1), esc)}<div class="actions"><a class="cta" href="${s.cta.url}">${esc(s.cta.text)}</a>${c2 ? `<a class="cta ghost" href="${c2.url}">${esc(c2.text)}</a>` : ""}</div></section>
+<h2 id="steps">${esc(site.steps_title ?? "How to do it")}</h2>
+${stepsList(ctx)}
+${paras(site.verdict.slice(1), esc)}
+<h2 id="ranking">The tools compared</h2>
+${s.table}
+${s.entries}
+<h2 id="why">Why start with ${esc(s.tu.name)}</h2>
+${s.why}
+<h2 id="how">What to check before you order</h2>
+${s.criteria}
+<h2 id="faq">Questions</h2>
+${s.faq}
+<h2 id="related">Related guides</h2>
+${s.related}
+${s.footer}
+</main>
+${beacon(ctx)}</body></html>`;
+  };
+}
+
+/* ---------- Field: info and tool pages. Sections, tables, lists, an optional generator ---------- */
+const fieldCss = `
+:root{--bg:#f7f8f5;--card:#fff;--ink:#1a1f1a;--muted:#667066;--line:#dfe4dc;--acc:#0c7a4d;--on:#fff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.65 Charter,"Bitstream Charter","Iowan Old Style",Georgia,serif}
+.wrap{max-width:860px;margin:0 auto;padding:0 22px}
+header.top{padding:44px 0 6px}.kicker{font:700 12px/1 system-ui,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:var(--acc)}
+h1{font-size:44px;line-height:1.06;margin:12px 0 8px;letter-spacing:-.02em}h2{font:700 23px/1.25 system-ui,sans-serif;margin:42px 0 10px;letter-spacing:-.01em}
+.meta{font:13px system-ui,sans-serif;color:var(--muted)}
+.verdict p:first-child{font-size:21px;line-height:1.5}
+.gen{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:22px;margin:22px 0;text-align:center}
+.gen-label{font:700 12px system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.gen-out{font:800 38px/1.15 system-ui,sans-serif;letter-spacing:-.02em;margin:14px 0 18px;min-height:44px}
+.gen button{font:700 16px system-ui,sans-serif;background:var(--acc);color:var(--on);border:0;border-radius:999px;padding:13px 26px;cursor:pointer}
+.gen-keep{margin-top:16px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center}.gen-keep span{font:14px system-ui,sans-serif;background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:4px 10px;color:var(--muted)}
+ul.cols{columns:3;padding-left:20px;font:16px/1.7 system-ui,sans-serif}ul.plain{padding-left:22px}ul.plain li{margin:7px 0}
+.tw{overflow-x:auto}table.data{width:100%;border-collapse:collapse;font:15px/1.4 system-ui,sans-serif;background:var(--card);border:1px solid var(--line);margin:12px 0}
+.data th{text-align:left;background:var(--ink);color:#fff;padding:9px 12px;font-size:13px}.data td{padding:9px 12px;border-top:1px solid var(--line)}
+.note{font:14px/1.5 system-ui,sans-serif;color:var(--muted)}
+.pub{background:var(--card);border:1px solid var(--line);border-left:5px solid var(--acc);border-radius:10px;padding:6px 22px 20px;margin:44px 0 8px}.pub h2{margin-top:18px}
+.cta{display:inline-block;margin:8px 0 0;padding:12px 18px;background:var(--acc);color:var(--on);text-decoration:none;font:700 15px system-ui,sans-serif;border-radius:8px}
+details{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 16px;margin:10px 0}summary{font:700 16px system-ui,sans-serif;cursor:pointer}details p{margin:8px 0 0}
+ul.related{columns:2;padding-left:20px;font:15px system-ui,sans-serif}a{color:var(--acc)}
+footer{margin:52px 0 44px;border-top:1px solid var(--line);padding-top:16px;font:13px/1.6 system-ui,sans-serif;color:var(--muted)}footer a{color:var(--muted)}
+@media(max-width:700px){h1{font-size:32px}ul.cols{columns:2}.gen-out{font-size:28px}ul.related{columns:1}}
+`;
+function field(ctx) {
+  const s = shared(ctx);
+  const { site, esc } = ctx;
+  return `${head(ctx, fieldCss)}
+<body>
+<header class="top"><div class="wrap"><div class="kicker">${esc(site.site_name)}</div><h1>${s.title}</h1><div class="meta">Updated ${s.updated} · Published by ${esc(ctx.publisher.name)}</div></div></header>
+<main class="wrap">
+<section class="verdict">${s.verdict}</section>
+${generatorBlock(ctx)}
+${sectionBlocks(ctx)}
+<aside class="pub"><h2>${esc(site.pub_title ?? `From ${ctx.publisher.name}`)}</h2>${s.why}<a class="cta" href="${s.cta.url}">${esc(s.cta.text)}</a></aside>
+<h2 id="faq">Questions</h2>
+${s.faq}
+<h2 id="related">Related guides</h2>
+${s.related}
+${s.footer}
+</main>
+${beacon(ctx)}</body></html>`;
+}
+
 export const templates = {
   ledger: { render: ledger, accent: "#1f6f43" },
   terminal: { render: terminal, accent: "#3BD324" },
   paper: { render: paper, accent: "#b5471b" },
   brief: { render: brief, accent: "#1d4ed8" },
+  studio: { render: studioPage(studioCss), accent: "#4b3fd6" },
+  bench: { render: studioPage(benchCss), accent: "#ffb020" },
+  field: { render: field, accent: "#0c7a4d" },
 };

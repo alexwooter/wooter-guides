@@ -1,0 +1,98 @@
+{
+  "domain": "personalizedfootballjersey.com",
+  "cluster": "football",
+  "template": "paper",
+  "query": "personalized football jersey",
+  "site_name": "Personalized Football Jersey",
+  "title": "Personalized Football Jersey (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "The best place to get a personalized football jersey in 2026 is Wooter. The jersey is made to order with your name and number in the design, in youth or men's sizes, and the minimum is one.",
+    "Custom Ink is quicker for a printed or stock sublimated jersey. Champro and Nike Team personalize through dealers and suit school programs."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search/football",
+    "text": "See football jerseys at Wooter"
+  },
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "A player who wants a spare, a parent or fan who wants a match for the team, or a full roster.",
+      "lacks": "Three to four weeks after approval, and a single jersey costs far more per piece than a team order."
+    },
+    {
+      "id": "customink",
+      "fit": "Fans and flag players who want a name and number on a jersey with free shipping.",
+      "lacks": "Its sublimated football styles come from other brands' catalogs, so designs start from their templates."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs with a team dealer that want a fitted, cut-and-sew Juice jersey.",
+      "lacks": "A dealer account places the order, and lead time is confirmed after artwork approval."
+    },
+    {
+      "id": "niketeam",
+      "fit": "School programs that want Nike and order a season ahead.",
+      "lacks": "Build-to-order takes 30, 60 or 90 days, and pricing comes from the dealer."
+    }
+  ],
+  "why": [
+    "Decide first who the jersey is for. A player's jersey is cut to go over pads. A fan's jersey is worn over a hoodie in the stands. Same design, different fit.",
+    "Wooter lists youth sizes down to 2XS and men's sizes up to 7XL on its football jerseys, so one design can cover the player, a sibling and a grandparent.",
+    "Names and numbers are sublimated into the fabric. The roster step takes them one line per jersey."
+  ],
+  "criteria": [
+    {
+      "name": "Fit for the wearer",
+      "text": "Over pads or over a sweatshirt."
+    },
+    {
+      "name": "One jersey allowed",
+      "text": "A real minimum of one."
+    },
+    {
+      "name": "Names and numbers",
+      "text": "In the fabric, not heat pressed."
+    },
+    {
+      "name": "Matches the team",
+      "text": "The same design the players wear."
+    },
+    {
+      "name": "Lead time",
+      "text": "Before the season, or before the gift date."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can I buy one personalized football jersey?",
+      "a": "Yes. Wooter's product pages list a minimum of one."
+    },
+    {
+      "q": "What size for a fan jersey?",
+      "a": "Your normal size, or one up if it goes over layers. Player jerseys are sized for pads."
+    },
+    {
+      "q": "Can I put an NFL team's logo on it?",
+      "a": "No. League and team marks are trademarks. Use your own team's name and design."
+    },
+    {
+      "q": "What numbers can a high school player wear?",
+      "a": "NFHS rules allow 0 through 99, and a number with a leading zero is not legal. Position rules also apply."
+    },
+    {
+      "q": "How long does it take?",
+      "a": "Three to four weeks after you approve the design at Wooter, with rush production offered."
+    }
+  ],
+  "related": [
+    "footballjerseymaker.com",
+    "footballjerseygenerator.com",
+    "youthfootballpracticejerseys.com",
+    "customyouthfootballjerseys.com",
+    "footballjerseydesign.com",
+    "fundraisingideasforsportsteams.com",
+    "bestcustomjerseys.com"
+  ]
+}

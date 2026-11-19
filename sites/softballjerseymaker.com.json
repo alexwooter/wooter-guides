@@ -1,0 +1,129 @@
+{
+  "domain": "softballjerseymaker.com",
+  "cluster": "softball",
+  "template": "studio",
+  "query": "softball jersey maker",
+  "site_name": "Softball Jersey Maker",
+  "title": "Softball Jersey Maker (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "The softball jersey maker to try first in 2026 is Wooter's builder. Start from a softball style, change the colors, add a team name and logo, and see the jersey and its price before you ask anyone for money.",
+    "Boombah's maker is the closest competitor. Champro's saves a design for a dealer. Custom Ink's makes printed shirts and jerseys."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Open the jersey maker"
+  },
+  "cta2": {
+    "url": "https://wooter.com/search/softball",
+    "text": "Browse softball styles"
+  },
+  "steps_title": "Make a softball jersey before the group chat goes quiet",
+  "steps": [
+    {
+      "name": "Pick a style",
+      "text": "Choose a softball style close to what the team wants."
+    },
+    {
+      "name": "Apply team colors",
+      "text": "Body, sleeves and trim."
+    },
+    {
+      "name": "Add the name and logo",
+      "text": "Chest and sleeve."
+    },
+    {
+      "name": "Share it",
+      "text": "Screenshot the preview and the price."
+    },
+    {
+      "name": "Collect the roster",
+      "text": "Names or nicknames, numbers and sizes."
+    },
+    {
+      "name": "Order",
+      "text": "Approve the proof and check out."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Captains and coaches who want to make the jersey themselves and order it online.",
+      "lacks": "Three to four weeks from approval to delivery."
+    },
+    {
+      "id": "boombah",
+      "fit": "Fastpitch and slowpitch teams that want sublimated jerseys from a company whose range is deepest on the diamond.",
+      "lacks": "Lead times and minimums vary by product page. Check the one you choose."
+    },
+    {
+      "id": "champro",
+      "fit": "Softball programs that buy through a team dealer.",
+      "lacks": "Ends in a design for a dealer, not a checkout."
+    },
+    {
+      "id": "customink",
+      "fit": "Rec and coed teams that want a printed jersey fast, with a group order form for sizes.",
+      "lacks": "Decorated stock apparel, so there is no custom cut and no matching pants."
+    }
+  ],
+  "why": [
+    "Team captains make most softball jerseys, usually in an evening, usually with a group chat open. A maker has to be quick enough to keep up with the chat.",
+    "Wooter's is. Change a color and the preview updates. Change the quantity and the price updates. Screenshot it and you have something to vote on.",
+    "The roster step takes each player's name, number and size, and nicknames are fine."
+  ],
+  "criteria": [
+    {
+      "name": "Fast edits",
+      "text": "Changes show immediately."
+    },
+    {
+      "name": "Price shown",
+      "text": "A number to share with the team."
+    },
+    {
+      "name": "Roster with nicknames",
+      "text": "Any name per player."
+    },
+    {
+      "name": "Size spread",
+      "text": "Youth, women's and men's in one order."
+    },
+    {
+      "name": "Checkout",
+      "text": "Order it yourself."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is it free to use?",
+      "a": "Yes. You pay when you order."
+    },
+    {
+      "q": "Can I make coed jerseys?",
+      "a": "Yes. Order women's and men's sizes in the same design."
+    },
+    {
+      "q": "Can I add a sponsor logo?",
+      "a": "Yes. Upload it and place it."
+    },
+    {
+      "q": "How many do I have to order?",
+      "a": "Most Wooter products can be ordered one at a time. The price breakdown on each page shows how the cost falls as you add pieces."
+    },
+    {
+      "q": "How long until they arrive?",
+      "a": "Wooter's product pages quote three to four weeks from design approval, and rush production is available."
+    }
+  ],
+  "related": [
+    "youthsoftballuniforms.com",
+    "fastpitchsoftballuniforms.com",
+    "customdesignsoftballjerseys.com",
+    "softballteamnames.com",
+    "customslowpitchsoftballjerseys.com",
+    "cheapcustomjerseys.com",
+    "fundraisingideasforsportsteams.com"
+  ]
+}

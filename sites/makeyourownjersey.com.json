@@ -1,0 +1,130 @@
+{
+  "domain": "makeyourownjersey.com",
+  "cluster": "general",
+  "template": "studio",
+  "query": "make your own jersey",
+  "site_name": "Make Your Own Jersey",
+  "title": "Make Your Own Jersey (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "You can make your own jersey in 2026 without design skills. In Wooter's builder you start from a finished style and change what you want: colors, logo, name and number. If you would rather describe it than build it, Wooter's designers make it for free.",
+    "Custom Ink's Design Lab is the other do-it-yourself route, printing your art on a stock jersey. Boombah has builders for its sublimated uniforms. Champro and Nike Team design through dealers."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Make your jersey"
+  },
+  "cta2": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Have a designer make it"
+  },
+  "steps_title": "Two ways to make your own jersey",
+  "steps": [
+    {
+      "name": "Decide the route",
+      "text": "Build it yourself if you have a clear idea. Brief a designer if you do not."
+    },
+    {
+      "name": "Self-serve: pick a style",
+      "text": "Then change colors, logo and text."
+    },
+    {
+      "name": "Designer: write three lines",
+      "text": "Name, colors and the feeling you want."
+    },
+    {
+      "name": "Review",
+      "text": "Look at the preview or mockup and adjust."
+    },
+    {
+      "name": "Add names and sizes",
+      "text": "Then order."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Teams, friends, event organizers and gaming squads who want a jersey that is theirs.",
+      "lacks": "Three to four weeks from approval to delivery."
+    },
+    {
+      "id": "customink",
+      "fit": "Small or one-off orders that need to arrive in about two weeks, with free standard shipping.",
+      "lacks": "A decorator of stock apparel more than a uniform maker."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that want fully sublimated uniforms from a maker that advertises no setup or design fees.",
+      "lacks": "Standard lead time is two or three weeks depending on the page, so confirm yours."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs that prefer to buy through a local team dealer.",
+      "lacks": "The builder saves a design. It does not take an order."
+    },
+    {
+      "id": "niketeam",
+      "fit": "School athletic departments with an authorized Nike Team dealer.",
+      "lacks": "Quoted by the dealer, with long build-to-order timelines."
+    }
+  ],
+  "why": [
+    "Making your own jersey used to mean ironing letters onto a T-shirt. Now it means choosing a design and having it printed into the fabric, with results you cannot tell from a club's kit.",
+    "There are two ways to do it. Build it yourself in a tool, or brief a designer. Do the first if you know what you want. Do the second if you only know how you want it to feel.",
+    "Wooter offers both at no charge, and you can switch from one to the other halfway."
+  ],
+  "criteria": [
+    {
+      "name": "No skills needed",
+      "text": "A finished style to start from."
+    },
+    {
+      "name": "Two routes",
+      "text": "Self-serve or designer-made."
+    },
+    {
+      "name": "Your artwork",
+      "text": "Upload a logo or have one drawn."
+    },
+    {
+      "name": "Any group",
+      "text": "Teams, events, companies and esports."
+    },
+    {
+      "name": "Order size",
+      "text": "One jersey or hundreds."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need Photoshop or Illustrator?",
+      "a": "No. The builder runs in a browser."
+    },
+    {
+      "q": "Can I make a jersey for an event or a company?",
+      "a": "Yes. The process is the same as for a team."
+    },
+    {
+      "q": "Can I use my own drawing?",
+      "a": "Yes. Upload it, or send it to the designers to clean up."
+    },
+    {
+      "q": "How many do I need to order?",
+      "a": "One on most items. Wooter's product pages list a minimum quantity of one, and the price per piece drops as the order grows."
+    },
+    {
+      "q": "How long does it take?",
+      "a": "Three to four weeks after you approve the design at Wooter, with rush production offered."
+    }
+  ],
+  "related": [
+    "cheapcustomjerseys.com",
+    "customyouthjerseys.com",
+    "sublimationuniforms.com",
+    "custompracticejerseys.com",
+    "customjerseyswithlogo.com",
+    "customjerseybuilder.com",
+    "jerseysizechart.com"
+  ]
+}

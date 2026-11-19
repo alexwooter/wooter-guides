@@ -1,0 +1,252 @@
+{
+  "domain": "randomteamnamegenerator.com",
+  "cluster": "general",
+  "template": "field",
+  "query": "random team name generator",
+  "site_name": "Random Team Name Generator",
+  "title": "Random Team Name Generator (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "Press the button for a random team name. The generator pairs one word from each of two lists, which gives about 2,000 combinations, and it works for any sport, a trivia night or an office league.",
+    "If nothing lands, the lists below are grouped by mood. Take a name as it is, or swap in your town, street or company."
+  ],
+  "cta": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Put the name on a jersey"
+  },
+  "generator": {
+    "label": "Team name generator",
+    "button": "Give me another",
+    "a": [
+      "Iron",
+      "Midnight",
+      "Electric",
+      "Golden",
+      "Flying",
+      "Mighty",
+      "Rapid",
+      "Silver",
+      "Crimson",
+      "Thunder",
+      "Rogue",
+      "Royal",
+      "Northern",
+      "Southside",
+      "Riverside",
+      "Wild",
+      "Blazing",
+      "Steel",
+      "Shadow",
+      "Atomic",
+      "Neon",
+      "Lucky",
+      "Fearless",
+      "Rowdy",
+      "Swift",
+      "Granite",
+      "Coastal",
+      "Summit",
+      "Prairie",
+      "Harbor",
+      "Canyon",
+      "Emerald",
+      "Scarlet",
+      "Cobalt",
+      "Copper",
+      "Arctic",
+      "Desert",
+      "Lunar",
+      "Solar",
+      "Eastside",
+      "Westside",
+      "Uptown",
+      "Downtown",
+      "Lakeside",
+      "Highland",
+      "Valley",
+      "Marble",
+      "Cedar"
+    ],
+    "b": [
+      "Hawks",
+      "Wolves",
+      "Comets",
+      "Rockets",
+      "Vipers",
+      "Foxes",
+      "Owls",
+      "Bears",
+      "Bison",
+      "Otters",
+      "Falcons",
+      "Ravens",
+      "Stallions",
+      "Mustangs",
+      "Cobras",
+      "Sharks",
+      "Dragons",
+      "Knights",
+      "Titans",
+      "Pirates",
+      "Storm",
+      "Blaze",
+      "Tempest",
+      "Cyclones",
+      "Hornets",
+      "Wasps",
+      "Lynx",
+      "Pumas",
+      "Rams",
+      "Bulldogs",
+      "Huskies",
+      "Coyotes",
+      "Herons",
+      "Ospreys",
+      "Badgers",
+      "Wolverines",
+      "Gators",
+      "Marlins",
+      "Phantoms",
+      "Outlaws",
+      "Rebels",
+      "Renegades",
+      "Voyagers",
+      "Pioneers"
+    ]
+  },
+  "sections": [
+    {
+      "h": "Classic",
+      "p": [
+        "Names that sound like they have been around for fifty years."
+      ],
+      "list": [
+        "Riverside Hawks",
+        "Northern Wolves",
+        "Iron Knights",
+        "Golden Bears",
+        "Crimson Falcons",
+        "Steel Stallions",
+        "Royal Rams",
+        "Silver Foxes",
+        "Highland Huskies",
+        "Harbor Sharks",
+        "Summit Storm",
+        "Valley Vipers"
+      ],
+      "cols": true
+    },
+    {
+      "h": "Funny",
+      "p": [
+        "For rec leagues, where the name is half the fun."
+      ],
+      "list": [
+        "Slow and Steady",
+        "Mild Things",
+        "The Flower Arrangers",
+        "Scrambled Legs",
+        "Not Fast, Just Stubborn",
+        "Cereal Killers",
+        "We Showed Up",
+        "Second Place Is Fine",
+        "The Participation Trophies",
+        "Unathletic Club",
+        "Sore Losers",
+        "Team Snack Break"
+      ],
+      "cols": true
+    },
+    {
+      "h": "For kids",
+      "p": [
+        "Short, friendly and easy to chant."
+      ],
+      "list": [
+        "Lightning Bugs",
+        "Mighty Minnows",
+        "Rocket Pops",
+        "Little Comets",
+        "Thunder Cubs",
+        "Speedy Otters",
+        "Bluebirds",
+        "Firecrackers",
+        "Jumping Beans",
+        "Wild Things",
+        "Shooting Stars",
+        "Tiger Sharks"
+      ],
+      "cols": true
+    },
+    {
+      "h": "Company and coed",
+      "p": [
+        "Safe for the office and the family newsletter."
+      ],
+      "list": [
+        "The Deadliners",
+        "Out of Office",
+        "Reply All Stars",
+        "Spreadsheet Sluggers",
+        "The Overachievers",
+        "Quarterly Gains",
+        "Friday Finishers",
+        "The Night Shift",
+        "Team Synergy (Ironically)",
+        "Lunch Break Legends",
+        "The Remote Workers",
+        "Budget Cuts"
+      ],
+      "cols": true
+    },
+    {
+      "h": "How to pick one",
+      "list": [
+        "Say it out loud. If it is awkward to cheer, pick another.",
+        "Check your league for duplicates before you print anything.",
+        "Keep it to two or three words so it fits across a chest.",
+        "Avoid pro team names and brand names. They are trademarks.",
+        "Let the team vote on a short list of three."
+      ]
+    }
+  ],
+  "ranking": [],
+  "pub_title": "Got a name? Put it on a jersey",
+  "why": [
+    "A name is settled when it is on a jersey. Wooter's design service is free. Send the name and your colors, and a designer returns a mockup in 1 to 2 business days.",
+    "Wooter makes team uniforms to order, with a minimum of one on most items and delivery three to four weeks after you approve the design."
+  ],
+  "criteria": [],
+  "faq": [
+    {
+      "q": "How does the random team name generator work?",
+      "a": "It picks one word from each of two lists and puts them together. Every press gives a new pair."
+    },
+    {
+      "q": "Can I use these names for free?",
+      "a": "Yes. They are common words. Check that no other team in your league already uses the one you pick."
+    },
+    {
+      "q": "What makes a good team name?",
+      "a": "Easy to say, easy to cheer and short enough to print. A local reference helps people remember it."
+    },
+    {
+      "q": "Can I use a professional team's name?",
+      "a": "For a casual league nobody will stop you, but pro names and logos are trademarks and cannot go on custom jerseys. Choose your own."
+    },
+    {
+      "q": "How do I turn a name into a logo?",
+      "a": "Send it to a designer. Wooter's design service is free. Send the name and your colors, and a designer returns a mockup in 1 to 2 business days."
+    }
+  ],
+  "related": [
+    "jerseysizechart.com",
+    "youthjerseysizechart.com",
+    "jerseynumberfont.com",
+    "makeyourownjersey.com",
+    "cheapcustomjerseys.com",
+    "fundraisingideasforsportsteams.com",
+    "bestcustomjerseys.com"
+  ]
+}

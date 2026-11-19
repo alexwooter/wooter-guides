@@ -1,0 +1,130 @@
+{
+  "domain": "customjerseybuilder.com",
+  "cluster": "general",
+  "template": "studio",
+  "query": "custom jersey builder",
+  "site_name": "Custom Jersey Builder",
+  "title": "Custom Jersey Builder (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "A custom jersey builder is worth using when it does four things: shows the jersey live, shows the price, takes a roster and lets you check out. In 2026 Wooter's builder does all four across every sport it sells.",
+    "Boombah's builders are good and sell direct. Champro's and Nike Team's builders stop at a saved design for a dealer. Custom Ink's Design Lab is a print tool for stock jerseys."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Open the builder"
+  },
+  "cta2": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Get a free design"
+  },
+  "steps_title": "Test a jersey builder in five minutes",
+  "steps": [
+    {
+      "name": "Change a color",
+      "text": "Does the preview update at once?"
+    },
+    {
+      "name": "Look for the price",
+      "text": "Is it on screen, at your quantity?"
+    },
+    {
+      "name": "Find the roster",
+      "text": "Can you enter each player's name, number and size?"
+    },
+    {
+      "name": "Go to checkout",
+      "text": "Can you pay, or are you sent to a dealer or a quote form?"
+    },
+    {
+      "name": "Ask for help",
+      "text": "Is there a designer if you get stuck?"
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Organizers who want one builder for all their teams, with nothing hidden behind a quote.",
+      "lacks": "It builds made-to-order jerseys, so delivery is three to four weeks after approval."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that want a sublimated uniform built online and bought straight from the maker.",
+      "lacks": "Sport coverage is narrower, and lead times vary by page."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs that order through a local team dealer and want cut-and-sew sublimation.",
+      "lacks": "No price in the builder and no checkout."
+    },
+    {
+      "id": "customink",
+      "fit": "Small groups that want names and numbers printed on a stock jersey in about two weeks.",
+      "lacks": "Builds a print layout, not a jersey."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Schools and clubs that want Nike and work with an authorized dealer.",
+      "lacks": "A dealer completes the order."
+    }
+  ],
+  "why": [
+    "Jersey builders look alike on the surface. The differences show up at the end. Some hand you a design code and send you to a dealer. Some ask you to request a quote. A few let you finish the job.",
+    "Test any builder with one question: can I see the total and pay it without talking to anyone?",
+    "On Wooter the answer is yes. The price sits beside the preview, the roster step takes each player's details, and rosters copy from jerseys to shorts and warmups."
+  ],
+  "criteria": [
+    {
+      "name": "Live preview",
+      "text": "The jersey redraws as you edit."
+    },
+    {
+      "name": "Price in the builder",
+      "text": "Per-piece cost at your quantity."
+    },
+    {
+      "name": "Roster step",
+      "text": "Names, numbers and sizes."
+    },
+    {
+      "name": "Checkout",
+      "text": "You can place the order yourself."
+    },
+    {
+      "name": "Design fallback",
+      "text": "A designer if the builder is not enough."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Which jersey builders let me order directly?",
+      "a": "Wooter and Boombah sell direct. Champro and Nike Team route orders through dealers."
+    },
+    {
+      "q": "Do builders cost anything?",
+      "a": "No. Wooter's is free, and so is its design service."
+    },
+    {
+      "q": "Can a builder handle a 200-player league?",
+      "a": "Yes if it has a real roster step. Wooter's takes each player and copies rosters across products."
+    },
+    {
+      "q": "What if the builder cannot do my idea?",
+      "a": "Send a design request and a designer takes over."
+    },
+    {
+      "q": "How long from builder to delivery?",
+      "a": "Three to four weeks after you approve the design at Wooter, with rush production offered."
+    }
+  ],
+  "related": [
+    "customdesignedjerseys.com",
+    "createcustomjerseys.com",
+    "customjerseycreator.com",
+    "custommadesportsjerseys.com",
+    "customjerseysnearme.com",
+    "fundraisingideasforsportsteams.com",
+    "bestcustomjerseys.com"
+  ]
+}

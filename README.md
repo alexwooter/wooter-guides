@@ -26,3 +26,15 @@ One real page per intent. Variant domains 301 to the closest page.
 ## Facts to refresh
 
 `data/products.json` is the single place for Wooter's and competitors' facts. Rebuild and redeploy; every page updates.
+
+## Pages
+
+All 95 domains in `data/domains.txt` have a page in `sites/`. They come in three kinds:
+
+- Buyer's guides (layouts `ledger`, `terminal`, `paper`, `brief`): a ranked comparison with Wooter first and the reason stated.
+- Design-tool pages (`studio`, `bench`): steps first, then the tools compared.
+- Info and tool pages (`field`): name generators, size charts, number fonts, fundraising and design ideas. No ranking.
+
+The pages are written in `tools/batch*.py` and the fact sheet in `tools/batch1.py` and `tools/facts.py`. Edit there, then run `./tools/build_all.sh`, which regenerates `sites/*.json`, sets related links and builds `dist/`.
+
+Every claim about another company comes from that company's own pages, listed under `sources` in `data/products.json`. Wooter prices quoted on pages were read from wooter.com in November 2026 and say so.

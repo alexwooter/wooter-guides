@@ -1,0 +1,104 @@
+{
+  "domain": "customcheerleadinguniforms.com",
+  "cluster": "cheer",
+  "template": "ledger",
+  "query": "custom cheerleading uniforms",
+  "site_name": "Custom Cheerleading Uniforms",
+  "title": "Custom Cheerleading Uniforms (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "For custom cheerleading uniforms in 2026, start with Wooter if you want a sublimated uniform at a published price in under a month. Its cheer package pairs a top with a skirt or skort, names and numbers are included, and turnaround is three to four weeks.",
+    "Varsity Spirit is the choice for programs that want a rep to design the uniform and size the squad in person. Chassé at Omni Cheer has in-stock uniforms and an online design studio. Fly Athletics builds couture competition looks. Custom Ink sells sublimated shells and skirts with volume pricing."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search/cheer",
+    "text": "See cheer uniforms at Wooter"
+  },
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "School, rec and club squads that want a sublimated uniform designed free and delivered in three to four weeks.",
+      "lacks": "Its cheer line is sublimated. Ask before ordering if you need rhinestones or sewn braid.",
+      "note": "Cheer has its own packages, shells, skirts and sizing kits on Wooter."
+    },
+    {
+      "id": "varsityspirit",
+      "fit": "School and All Star programs that want a local rep to design the uniform and size the athletes in person.",
+      "lacks": "No public pricing or online checkout for custom uniforms. Everything runs through the rep."
+    },
+    {
+      "id": "omnicheer",
+      "fit": "Squads that want in-stock shells and skirts quickly, or a sublimated set built in an online studio.",
+      "lacks": "Sublimated pieces need a minimum of six and take 4 to 6 weeks."
+    },
+    {
+      "id": "flyathletics",
+      "fit": "All Star gyms that want couture detail such as rhinestone patterns and custom stitching.",
+      "lacks": "Six to eight weeks to produce, with a minimum of six uniforms per design."
+    },
+    {
+      "id": "customink",
+      "fit": "Rec and school squads that want sublimated shells, skirts and skorts with volume pricing shown upfront.",
+      "lacks": "A catalog of set styles in ladies and girls cuts, recolored rather than drawn for you."
+    }
+  ],
+  "why": [
+    "Cheer uniforms come two ways. Traditional uniforms are cut and sewn with braid and lettering stitched on. Sublimated uniforms print the whole design into stretch fabric, which costs less and allows any color or pattern.",
+    "Wooter makes the second kind. The design is free, the price is on the product page, and there are no charges added for names, numbers or extra colors.",
+    "Fit matters more in cheer than in most sports, so order a sizing kit and have every athlete try the pieces on before you place the order."
+  ],
+  "criteria": [
+    {
+      "name": "Time to delivery",
+      "text": "Weeks from approved design to uniforms."
+    },
+    {
+      "name": "Published price",
+      "text": "A cost you can see without a meeting."
+    },
+    {
+      "name": "Fit",
+      "text": "Sizing kits or in-person sizing."
+    },
+    {
+      "name": "Design freedom",
+      "text": "Any color and pattern, or a set catalog."
+    },
+    {
+      "name": "Minimums",
+      "text": "Whether a squad of eight can order."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long do custom cheer uniforms take?",
+      "a": "Three to four weeks at Wooter. Omni Cheer lists 4 to 6 weeks for sublimation. Fly Athletics quotes six to eight weeks."
+    },
+    {
+      "q": "Sublimated or sewn?",
+      "a": "Sublimated costs less, is lighter and allows any design. Sewn braid has a traditional look some schools prefer."
+    },
+    {
+      "q": "How do we get the sizing right?",
+      "a": "Use a sizing kit. Wooter sells cheer sizing kits, and Varsity sizes athletes in person through its reps."
+    },
+    {
+      "q": "What is in a cheer uniform?",
+      "a": "A shell or top and a skirt or skort. Many squads add a bodyliner, briefs and a warmup."
+    },
+    {
+      "q": "Is there a minimum order?",
+      "a": "Wooter's product pages list a minimum of one on most items. Omni Cheer and Fly Athletics set a minimum of six on custom pieces."
+    }
+  ],
+  "related": [
+    "youthcheeruniforms.com",
+    "competitivecheeruniforms.com",
+    "jerseydesignideas.com",
+    "cheapcustomjerseys.com",
+    "fundraisingideasforsportsteams.com",
+    "bestcustomjerseys.com",
+    "customjerseybuilder.com"
+  ]
+}

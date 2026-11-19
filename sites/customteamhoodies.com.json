@@ -1,0 +1,94 @@
+{
+  "domain": "customteamhoodies.com",
+  "cluster": "apparel",
+  "template": "brief",
+  "query": "custom team hoodies",
+  "site_name": "Custom Team Hoodies",
+  "title": "Custom Team Hoodies (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "Wooter makes the best custom team hoodies in 2026 for teams that want the hoodie to match the uniform. They come fully sublimated or in a cotton blend with embroidery, vinyl or tackle twill, and player names and numbers are included.",
+    "Custom Ink is the easy choice for a printed or embroidered stock hoodie in any quantity. Boombah offers hoodies alongside its baseball and softball uniforms."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search/custom-apparel/hoodies",
+    "text": "See team hoodies at Wooter"
+  },
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Teams that want a hoodie in their exact colors and design, with each player's name and number.",
+      "lacks": "Three to four weeks. A stock hoodie with a print is faster.",
+      "note": "Wooter listed its custom hoodie from $22.99 at 1,000 pieces to $67.49 for one when we checked in November 2026."
+    },
+    {
+      "id": "customink",
+      "fit": "Groups of any size that want hoodies, jackets or bags printed or embroidered, with free shipping.",
+      "lacks": "Mostly decorated stock apparel. Its fully sublimated outerwear comes from one partner brand's collection."
+    },
+    {
+      "id": "boombah",
+      "fit": "Baseball and softball teams that want hoodies, jackets, warm-ups and pullovers alongside their uniforms.",
+      "lacks": "The apparel range is built around its diamond sports."
+    }
+  ],
+  "why": [
+    "There are two kinds of team hoodie. One is a stock sweatshirt with a logo on the chest. The other is made for the team, with the design running across the whole garment.",
+    "The first is quick and fine for a fundraiser. The second matches the uniform exactly, because it is printed from the same artwork.",
+    "Wooter makes both kinds and several cuts: pullover, zip-up, sleeveless and short sleeve."
+  ],
+  "criteria": [
+    {
+      "name": "Matches the uniform",
+      "text": "Same colors and artwork."
+    },
+    {
+      "name": "Decoration",
+      "text": "Sublimation, embroidery or twill."
+    },
+    {
+      "name": "Names and numbers",
+      "text": "Included or extra."
+    },
+    {
+      "name": "Size range",
+      "text": "Youth through large adult sizes."
+    },
+    {
+      "name": "Minimum",
+      "text": "Whether one is allowed."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sublimated or cotton hoodies?",
+      "a": "Sublimated polyester is lighter and takes any design. Cotton blend is warmer and suits embroidery."
+    },
+    {
+      "q": "Can each hoodie have a name and number?",
+      "a": "Yes. Wooter includes them at no extra cost."
+    },
+    {
+      "q": "Do sublimated hoodies fade?",
+      "a": "No. The design is dyed into the fabric."
+    },
+    {
+      "q": "Can parents order too?",
+      "a": "Yes. Add them to the roster, or open a team store so they order themselves."
+    },
+    {
+      "q": "Is there a minimum order?",
+      "a": "Most Wooter products can be ordered one at a time. The price breakdown on each page shows how the cost falls as you add pieces."
+    }
+  ],
+  "related": [
+    "customwarmupjackets.com",
+    "customshootingshirts.com",
+    "customteambackpacks.com",
+    "customcompressionshirts.com",
+    "customteamjackets.com",
+    "jerseysizechart.com",
+    "randomteamnamegenerator.com"
+  ]
+}

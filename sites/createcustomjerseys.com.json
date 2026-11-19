@@ -5,7 +5,7 @@
   "query": "create custom jerseys",
   "site_name": "Create Custom Jerseys",
   "title": "Create Custom Jerseys (2026)",
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "published": "2026-11-18",
   "verdict": [
     "The easiest way to create custom jerseys in 2026 is Wooter's builder. Pick a sport and a style, change the colors, logo and team name, add the roster, and the preview and price update as you go.",
@@ -15,7 +15,7 @@
     {
       "id": "wooter",
       "fit": "Anyone who wants to design a full team set online and see the price before committing.",
-      "lacks": "The design is instant. Delivery is not: production takes two to four weeks."
+      "lacks": "The design is instant. Delivery is not: production takes three to four weeks."
     },
     {
       "id": "customink",
@@ -76,11 +76,11 @@
     },
     {
       "q": "How many jerseys do I have to order?",
-      "a": "It depends on the product. Wooter's catalog lists minimums by item, some starting at one. Check the product page before planning a small order."
+      "a": "One on most items. Wooter's product pages list a minimum quantity of one, and the price per piece drops as the order grows."
     },
     {
       "q": "How long after I design it do the jerseys arrive?",
-      "a": "Two to four weeks from order to delivery at Wooter."
+      "a": "Three to four weeks from order to delivery at Wooter."
     },
     {
       "q": "Can one design go on every item?",
@@ -88,12 +88,12 @@
     }
   ],
   "related": [
-    "custommadebasketballjerseys.com",
-    "custommadebaseballjerseys.com",
-    "custommadefootballjerseys.com",
-    "custommadesoccerjerseys.com",
-    "customdesignedjerseys.com",
-    "custombasketballjerseymaker.com",
-    "custombaseballjerseymaker.com"
+    "customjerseycreator.com",
+    "custommadesportsjerseys.com",
+    "customjerseysnearme.com",
+    "personalizedsportsjerseys.com",
+    "personalizedteamapparel.com",
+    "jerseysizechart.com",
+    "randomteamnamegenerator.com"
   ]
 }

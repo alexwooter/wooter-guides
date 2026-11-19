@@ -1,0 +1,134 @@
+{
+  "domain": "designcustombasketballuniforms.com",
+  "cluster": "basketball",
+  "template": "studio",
+  "query": "design custom basketball uniforms",
+  "site_name": "Design Custom Basketball Uniforms",
+  "title": "Design Custom Basketball Uniforms (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "To design custom basketball uniforms in 2026, open Wooter's builder, pick a basketball style and change the colors, logo and team name while the preview updates. If you would rather hand it off, Wooter's designers draw the uniform for free and send a mockup in 1 to 2 business days.",
+    "Boombah's builder is the closest alternative and covers reversible sets. Custom Ink's Design Lab works for print on a stock jersey. Champro and Nike Team have builders whose designs are ordered through a dealer."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Open the builder"
+  },
+  "cta2": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Get a free design"
+  },
+  "steps_title": "How to design a basketball uniform",
+  "steps": [
+    {
+      "name": "Pick the cut",
+      "text": "Decide on V-neck, round neck or sleeved, and whether the set is single-sided or reversible. The cut decides how much space the design gets."
+    },
+    {
+      "name": "Set the colors",
+      "text": "Choose a dark and a light version if you play home and away. High school rules want the torso in one solid color, so keep patterns to the side panels and shorts."
+    },
+    {
+      "name": "Place the name and numbers",
+      "text": "Team name across the chest, number below it and on the back. Leave room: front numbers need at least 4 inches of height under high school rules, back numbers 6."
+    },
+    {
+      "name": "Match the shorts",
+      "text": "Carry one stripe, panel or logo from the jersey onto the shorts. One shared element is enough."
+    },
+    {
+      "name": "Enter the roster",
+      "text": "Add each player's name, number and size. On Wooter the roster copies to shorts and warmups."
+    },
+    {
+      "name": "Approve the mockup",
+      "text": "Check spelling, numbers and colors on the proof. Nothing is made until you approve it."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Coaches who want to design jersey and shorts together and see the price while they do it.",
+      "lacks": "The design is quick. Production still takes three to four weeks after approval."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that want reversible jerseys and shorts built online by a maker with its own factories.",
+      "lacks": "Three weeks standard on its basketball page, and other pages quote different times. Confirm before you order."
+    },
+    {
+      "id": "customink",
+      "fit": "Small groups that need names and numbers on a stock jersey or reversible tank in about two weeks.",
+      "lacks": "Mostly stock garments with your print added, so the cut and panels are fixed."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs with a team dealer that want cut-and-sew Juice sublimation.",
+      "lacks": "The builder ends in a saved design that a dealer orders."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Schools and clubs that want Nike and already work with an authorized dealer.",
+      "lacks": "Build-to-order uniforms take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "A basketball uniform is two garments that have to read as one. Most design mistakes come from treating the shorts as an afterthought.",
+    "Wooter's builder starts from 500+ finished styles, so the proportions are already right and you are changing colors and marks, not drawing from zero. The price shows as you go.",
+    "When the builder is not enough, the design service is free. Send colors, a logo and two or three uniforms you like."
+  ],
+  "criteria": [
+    {
+      "name": "Jersey and shorts together",
+      "text": "One design across both pieces."
+    },
+    {
+      "name": "Rule-safe layouts",
+      "text": "Number sizes and a solid torso if you play under high school rules."
+    },
+    {
+      "name": "Live preview",
+      "text": "You see each change as you make it."
+    },
+    {
+      "name": "Design help",
+      "text": "A designer who takes over at no charge."
+    },
+    {
+      "name": "Proof before production",
+      "text": "Nothing is made until you sign off."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need design software?",
+      "a": "No. The builder runs in the browser. A logo file helps, and a clean PNG is enough to start."
+    },
+    {
+      "q": "Can I design home and away at once?",
+      "a": "Yes. Design one, then swap the colors for the second. A reversible set gives you both in one jersey."
+    },
+    {
+      "q": "What makes a uniform legal for high school games?",
+      "a": "NFHS rules call for a single solid color on the torso, a front number at least 4 inches high and a back number at least 6. Numbers use only the digits 0 through 5. Your state association has the full list."
+    },
+    {
+      "q": "How much does the design cost?",
+      "a": "Nothing at Wooter. The builder and the design service are both free, and you pay when you order."
+    },
+    {
+      "q": "How long after the design is done?",
+      "a": "Plan on three to four weeks from the day you approve the proof. Wooter offers rush production if you are short on time."
+    }
+  ],
+  "related": [
+    "createcustombasketballuniforms.com",
+    "basketballjerseymaker.com",
+    "basketballjerseydesign.com",
+    "basketballuniformgenerator.com",
+    "reversiblebasketballjerseys.com",
+    "bestcustomjerseys.com",
+    "customjerseybuilder.com"
+  ]
+}

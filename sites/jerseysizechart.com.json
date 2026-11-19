@@ -1,0 +1,163 @@
+{
+  "domain": "jerseysizechart.com",
+  "cluster": "general",
+  "template": "field",
+  "query": "jersey size chart",
+  "site_name": "Jersey Size Chart",
+  "title": "Jersey Size Chart (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "A jersey size chart tells you the measurements of the garment, and every maker's chart is different. This page explains how to read one, how to measure a player, and shows an example chart from Wooter.",
+    "The short version: measure the chest, compare it to the chart for the exact product, and go up a size if the player wears layers or sits between two sizes."
+  ],
+  "cta": {
+    "url": "https://wooterapparel.com/sizing",
+    "text": "See Wooter's size charts"
+  },
+  "sections": [
+    {
+      "h": "How jersey sizing works",
+      "p": [
+        "Chart numbers describe the jersey, not the person. A jersey with a 44 inch chest fits a player whose chest is a few inches smaller, depending on how loose the sport wears it.",
+        "Sizes also shift by sport. A football jersey is cut to go over pads. A volleyball jersey is cut close. The same player can be a medium in one and a large in the other."
+      ]
+    },
+    {
+      "h": "How to measure",
+      "list": [
+        "Chest: wrap the tape around the fullest part of the chest, level all the way round.",
+        "Waist: measure the narrowest part of the torso, above the line of the pants.",
+        "Hips: for women's or longer jerseys, measure the fullest part of the hips.",
+        "Sleeve: from the center back of the neck, over the shoulder and down to the wrist, with the arm bent.",
+        "Keep the tape snug, not tight. You should be able to slide one finger under it."
+      ]
+    },
+    {
+      "h": "Example: adult jersey sizes",
+      "table": {
+        "head": [
+          "Size",
+          "Chest (in)",
+          "Body length (in)",
+          "Sleeve length (in)"
+        ],
+        "rows": [
+          [
+            "Adult S",
+            "34 to 36",
+            "31.75",
+            "16.25"
+          ],
+          [
+            "Adult M",
+            "38 to 40",
+            "32.25",
+            "17.5"
+          ],
+          [
+            "Adult L",
+            "42 to 44",
+            "32.75",
+            "18.75"
+          ],
+          [
+            "Adult XL",
+            "46 to 48",
+            "33.25",
+            "20"
+          ]
+        ],
+        "note": "Figures as published in Wooter's baseball jersey sizing guide. Other sports and cuts differ, so use the Size Guide link on the product you are ordering."
+      }
+    },
+    {
+      "h": "Size ranges to expect",
+      "p": [
+        "These are the ranges Wooter lists on most custom jerseys."
+      ],
+      "table": {
+        "head": [
+          "Fit",
+          "Range"
+        ],
+        "rows": [
+          [
+            "Youth",
+            "YXS to YXL, with Y2XS on some styles"
+          ],
+          [
+            "Women's",
+            "WXS to W5XL"
+          ],
+          [
+            "Men's",
+            "MXS to M7XL, or M5XL on some styles"
+          ],
+          [
+            "Girls'",
+            "GXS to GXL on selected styles"
+          ]
+        ]
+      }
+    },
+    {
+      "h": "How fit changes by sport",
+      "list": [
+        "Basketball: loose and sleeveless. Most players wear their T-shirt size.",
+        "Football: sized to go over shoulder pads. Try one on with pads.",
+        "Baseball and softball: room for an undershirt. Size up if you layer.",
+        "Soccer: an athletic fit, closer than a T-shirt.",
+        "Volleyball: fitted. Check the women's or men's chart.",
+        "Compression and wrestling: tight by design. Use the chart, not your shirt size."
+      ]
+    },
+    {
+      "h": "Between two sizes?",
+      "list": [
+        "Choose the larger size for room and movement. Wooter's guide generally recommends sizing up.",
+        "Choose the smaller size only if you want a fitted look.",
+        "Size up if the player wears a compression shirt or other layers underneath.",
+        "Wash in cold water. Some fabrics shrink slightly."
+      ]
+    }
+  ],
+  "ranking": [],
+  "pub_title": "Sizing at Wooter",
+  "why": [
+    "Wooter publishes a size guide on every product and sells sizing kits, which are sample garments a team can try on before ordering. Jersey and shorts sizes are chosen separately for each player.",
+    "If you are unsure, order the sizing kit first. It costs far less than a team of jerseys in the wrong size."
+  ],
+  "criteria": [],
+  "faq": [
+    {
+      "q": "How do I know my jersey size?",
+      "a": "Measure your chest and compare it with the size chart for the specific jersey. Do not rely on your T-shirt size across sports."
+    },
+    {
+      "q": "Do jerseys run big or small?",
+      "a": "It depends on the sport and maker. Football runs big to fit pads. Volleyball and soccer run closer."
+    },
+    {
+      "q": "Are men's and women's jersey sizes the same?",
+      "a": "No. Women's cuts are shaped differently. Use the chart for the cut you are ordering."
+    },
+    {
+      "q": "What is a sizing kit?",
+      "a": "A set of sample garments in each size that a team tries on before ordering."
+    },
+    {
+      "q": "Can jersey and shorts be different sizes?",
+      "a": "Yes. At Wooter each player picks a jersey size and a shorts size separately."
+    }
+  ],
+  "related": [
+    "youthjerseysizechart.com",
+    "jerseynumberfont.com",
+    "makeyourownjersey.com",
+    "cheapcustomjerseys.com",
+    "customyouthjerseys.com",
+    "randomteamnamegenerator.com",
+    "jerseydesignideas.com"
+  ]
+}

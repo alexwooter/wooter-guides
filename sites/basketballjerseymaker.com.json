@@ -1,0 +1,134 @@
+{
+  "domain": "basketballjerseymaker.com",
+  "cluster": "basketball",
+  "template": "studio",
+  "query": "basketball jersey maker",
+  "site_name": "Basketball Jersey Maker",
+  "title": "Basketball Jersey Maker (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "A good basketball jersey maker gets you from a blank jersey to a finished one in a few minutes. In 2026 the one to open first is Wooter's builder: pick a basketball style, recolor it, add a logo and team name, and the jersey and its price update as you go.",
+    "Boombah has a capable maker for reversible sets. Custom Ink's Design Lab makes printed jerseys. Champro's and Nike Team's makers save a design for a dealer to order."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Open the jersey maker"
+  },
+  "cta2": {
+    "url": "https://wooter.com/search/basketball",
+    "text": "Browse basketball styles"
+  },
+  "steps_title": "Make a basketball jersey in ten minutes",
+  "steps": [
+    {
+      "name": "Choose a style",
+      "text": "Scroll the basketball styles and pick the one closest to what you have in mind."
+    },
+    {
+      "name": "Change the colors",
+      "text": "Set the body, trim and number colors. Check the number stands out from the body at a glance."
+    },
+    {
+      "name": "Add your logo and name",
+      "text": "Upload the logo and type the team name. Keep the chest uncluttered."
+    },
+    {
+      "name": "Check the price",
+      "text": "It sits beside the preview and moves with quantity."
+    },
+    {
+      "name": "Add the roster",
+      "text": "One line per player with name, number and size."
+    },
+    {
+      "name": "Order",
+      "text": "Review the proof, approve it and place the order."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Anyone who wants to make a jersey online tonight and order it for the team tomorrow.",
+      "lacks": "It makes real jerseys, so there is a three to four week wait after approval."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that want reversible jerseys and shorts built online by a maker with its own factories.",
+      "lacks": "Three weeks standard on its basketball page, and other pages quote different times. Confirm before you order."
+    },
+    {
+      "id": "customink",
+      "fit": "Small groups that need names and numbers on a stock jersey or reversible tank in about two weeks.",
+      "lacks": "A print tool for stock jerseys, not a pattern maker."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs with a team dealer that want cut-and-sew Juice sublimation.",
+      "lacks": "The maker stops at a saved design. A dealer takes it from there."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Schools and clubs that want Nike and already work with an authorized dealer.",
+      "lacks": "Build-to-order uniforms take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "Ten minutes is a fair target for a first jersey. The time goes on three choices: the style, the colors and where the logo sits.",
+    "Wooter's maker opens with 500+ professionally designed styles, so the first choice is a click. Colors change in place, and your logo and team name drop onto the jersey.",
+    "The step that takes longer is the roster. Have each player's name, number and size ready and it goes quickly."
+  ],
+  "criteria": [
+    {
+      "name": "Speed to a first jersey",
+      "text": "Minutes, without an account wall before you see anything."
+    },
+    {
+      "name": "Price on screen",
+      "text": "The cost beside the preview."
+    },
+    {
+      "name": "Logo upload",
+      "text": "Your artwork on the jersey, not clip art."
+    },
+    {
+      "name": "Roster step",
+      "text": "Per-player names, numbers and sizes."
+    },
+    {
+      "name": "Real checkout",
+      "text": "You place the order yourself."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is the basketball jersey maker free?",
+      "a": "Yes. Wooter's builder costs nothing to use. You pay when you order."
+    },
+    {
+      "q": "Can I save a jersey and come back?",
+      "a": "Yes. Finish the design, then return to add the roster and order."
+    },
+    {
+      "q": "Does it make shorts too?",
+      "a": "Wooter sells basketball uniforms as sets, so the jersey design carries onto shorts."
+    },
+    {
+      "q": "Can I make one jersey for myself?",
+      "a": "Yes. Wooter's product pages list a minimum quantity of one."
+    },
+    {
+      "q": "What if I get stuck?",
+      "a": "Switch to the free design service. A designer finishes the jersey and sends a mockup in 1 to 2 business days."
+    }
+  ],
+  "related": [
+    "basketballjerseydesign.com",
+    "basketballuniformgenerator.com",
+    "reversiblebasketballjerseys.com",
+    "basketballpracticejerseys.com",
+    "basketballteamnames.com",
+    "customjerseybuilder.com",
+    "jerseysizechart.com"
+  ]
+}

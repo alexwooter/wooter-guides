@@ -1,0 +1,134 @@
+{
+  "domain": "customjerseycreator.com",
+  "cluster": "general",
+  "template": "studio",
+  "query": "custom jersey creator",
+  "site_name": "Custom Jersey Creator",
+  "title": "Custom Jersey Creator (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "The custom jersey creator to use in 2026 is Wooter's builder. Choose your sport, pick one of 500+ styles, and change the colors, logo, team name and roster with a live preview and the price on screen.",
+    "Boombah's creator is strong for baseball, softball and basketball. Custom Ink's Design Lab creates printed jerseys. Champro's and Nike Team's creators produce a design that a dealer orders."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Open the jersey creator"
+  },
+  "cta2": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Get a free design"
+  },
+  "steps_title": "Before you open the creator",
+  "steps": [
+    {
+      "name": "Find the logo file",
+      "text": "A vector file is best. A large PNG will do."
+    },
+    {
+      "name": "Write the roster",
+      "text": "Name, number and size for every player."
+    },
+    {
+      "name": "Know your date",
+      "text": "Count back four weeks from the first game, plus time to approve."
+    },
+    {
+      "name": "Pick the sport and style",
+      "text": "Choose from the library."
+    },
+    {
+      "name": "Customize",
+      "text": "Colors, logo and team name."
+    },
+    {
+      "name": "Enter the roster and order",
+      "text": "Check the proof before you approve."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "First-time organizers who want a creator that covers every sport and ends in a checkout.",
+      "lacks": "The creator is instant. The jerseys arrive three to four weeks after approval."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams comfortable in an online builder that want to buy from the factory.",
+      "lacks": "Baseball and softball get its deepest range. Other sports have fewer styles."
+    },
+    {
+      "id": "customink",
+      "fit": "Groups that want a design printed on stock jerseys, with a group order form for sizes.",
+      "lacks": "The garment is stock, so cut, panels and fabric are fixed."
+    },
+    {
+      "id": "champro",
+      "fit": "Coaches whose school or league already has a Champro dealer.",
+      "lacks": "No public prices, and the dealer places the order."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Programs that want the Nike mark and can order months ahead.",
+      "lacks": "30, 60 or 90 days for build-to-order, through a dealer."
+    }
+  ],
+  "why": [
+    "If you have never ordered jerseys, the creator is the easy part. What slows first-timers down is not having three things ready: a logo file, a roster and a date.",
+    "Gather those first and Wooter's creator goes quickly. The roster step asks for each player's name, number, size and quantity.",
+    "Missing the logo? The design service is free, and a designer can build a wordmark from the team name."
+  ],
+  "criteria": [
+    {
+      "name": "Every sport",
+      "text": "One creator for all your teams."
+    },
+    {
+      "name": "Live preview",
+      "text": "Each change shown at once."
+    },
+    {
+      "name": "Price shown",
+      "text": "No quote request."
+    },
+    {
+      "name": "Roster step",
+      "text": "Names, numbers and sizes."
+    },
+    {
+      "name": "Checkout",
+      "text": "You place the order."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do I need before I start?",
+      "a": "Team colors, a logo if you have one, a roster with sizes and the date you need the jerseys."
+    },
+    {
+      "q": "Which sports does the creator cover?",
+      "a": "Wooter lists basketball, football, flag football and 7v7, soccer, baseball, softball, volleyball, lacrosse, cheer, tennis and wrestling."
+    },
+    {
+      "q": "Is it free?",
+      "a": "Yes. Wooter's builder and design service are free. You pay when you order."
+    },
+    {
+      "q": "Can I create a jersey without a logo?",
+      "a": "Yes. Use the team name as the mark, or ask the designers to draw one."
+    },
+    {
+      "q": "How long until the jerseys arrive?",
+      "a": "Plan on three to four weeks from the day you approve the proof. Wooter offers rush production if you are short on time."
+    }
+  ],
+  "related": [
+    "custommadesportsjerseys.com",
+    "customjerseysnearme.com",
+    "personalizedsportsjerseys.com",
+    "personalizedteamapparel.com",
+    "personalizedsportsapparel.com",
+    "cheapcustomjerseys.com",
+    "fundraisingideasforsportsteams.com"
+  ]
+}

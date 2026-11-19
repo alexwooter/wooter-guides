@@ -1,0 +1,124 @@
+{
+  "domain": "flagfootballjerseymaker.com",
+  "cluster": "flag",
+  "template": "bench",
+  "query": "flag football jersey maker",
+  "site_name": "Flag Football Jersey Maker",
+  "title": "Flag Football Jersey Maker (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "The flag football jersey maker to use in 2026 is Wooter's builder. Pick a style, add your colors, team name and logo, and see the jersey and its price before you collect a dollar from the team.",
+    "Custom Ink's Design Lab is the alternative for a printed jersey. Champro's builder makes a 7v7 design for a dealer to order."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Open the jersey maker"
+  },
+  "cta2": {
+    "url": "https://wooter.com/search/flag-football",
+    "text": "Browse flag football styles"
+  },
+  "steps_title": "Make flag football jerseys for a new team",
+  "steps": [
+    {
+      "name": "Pick a style",
+      "text": "Sleeveless or short sleeve."
+    },
+    {
+      "name": "Add team colors",
+      "text": "Check you differ from the league's other teams."
+    },
+    {
+      "name": "Add the name and logo",
+      "text": "Chest and shoulder."
+    },
+    {
+      "name": "Send the team the price",
+      "text": "And a screenshot."
+    },
+    {
+      "name": "Collect the roster",
+      "text": "Names, numbers and sizes."
+    },
+    {
+      "name": "Order",
+      "text": "Approve the proof and check out."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Captains and league organizers who want to make and order flag jerseys online.",
+      "lacks": "Three to four weeks from approval to delivery."
+    },
+    {
+      "id": "customink",
+      "fit": "Rec leagues that want flag jerseys with names and numbers and free shipping. Its page lists flag jerseys from around $40 a piece at volume.",
+      "lacks": "Styles come from stock and partner-brand catalogs, not a pattern drawn for your team."
+    },
+    {
+      "id": "champro",
+      "fit": "Teams with a dealer that want a Juice sublimated 7v7 jersey.",
+      "lacks": "The design goes to a dealer to be ordered."
+    }
+  ],
+  "why": [
+    "Flag teams form quickly. A captain signs up, recruits eight friends and needs jerseys before week one. The maker has to be fast and the order has to be simple.",
+    "Wooter's builder starts from finished styles and shows the price as you go. The roster step takes names, nicknames, numbers and sizes.",
+    "Most product pages list a minimum of one, so a nine-player team is a normal order."
+  ],
+  "criteria": [
+    {
+      "name": "Fast to a result",
+      "text": "A finished jersey in minutes."
+    },
+    {
+      "name": "Price visible",
+      "text": "A number to send to the team."
+    },
+    {
+      "name": "Small teams welcome",
+      "text": "No large minimum."
+    },
+    {
+      "name": "Shorts to match",
+      "text": "The uniform completed."
+    },
+    {
+      "name": "Checkout",
+      "text": "Order it yourself."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is the maker free?",
+      "a": "Yes. Wooter's builder and design service are free. You pay when you order."
+    },
+    {
+      "q": "Can I add nicknames?",
+      "a": "Yes. The roster takes any name."
+    },
+    {
+      "q": "Can I make shorts too?",
+      "a": "Yes. Wooter sells flag football shorts in the same line."
+    },
+    {
+      "q": "How many jerseys do I have to order?",
+      "a": "One on most items. Wooter's product pages list a minimum quantity of one, and the price per piece drops as the order grows."
+    },
+    {
+      "q": "How fast will they arrive?",
+      "a": "About three to four weeks once the design is approved. Ask Wooter about rush production for a tighter date."
+    }
+  ],
+  "related": [
+    "youthflagfootballjerseys.com",
+    "7v7uniforms.com",
+    "customflagfootballuniforms.com",
+    "bestcustomjerseys.com",
+    "customjerseybuilder.com",
+    "jerseysizechart.com",
+    "randomteamnamegenerator.com"
+  ]
+}

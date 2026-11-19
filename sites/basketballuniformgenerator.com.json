@@ -1,0 +1,130 @@
+{
+  "domain": "basketballuniformgenerator.com",
+  "cluster": "basketball",
+  "template": "studio",
+  "query": "basketball uniform generator",
+  "site_name": "Basketball Uniform Generator",
+  "title": "Basketball Uniform Generator (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "The quickest basketball uniform generator in 2026 is a library of finished designs you can recolor. Wooter's builder has 500+ styles: choose one, enter your colors and team name, and you have a uniform to show the team in a couple of minutes.",
+    "Boombah's builder works the same way for reversible sets. Custom Ink generates printed layouts on stock jerseys. Champro and Nike Team generate designs for a dealer to order."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Generate a uniform"
+  },
+  "cta2": {
+    "url": "https://wooter.com/design-request/products",
+    "text": "Have a designer do it"
+  },
+  "steps_title": "Generate three options in five minutes",
+  "steps": [
+    {
+      "name": "Enter the basics",
+      "text": "Team name, two colors and a logo if you have one."
+    },
+    {
+      "name": "Pick three styles",
+      "text": "Choose three that differ: one classic, one bold, one simple."
+    },
+    {
+      "name": "Recolor each",
+      "text": "Apply your colors to all three. Keep the number color constant so the comparison is fair."
+    },
+    {
+      "name": "Compare",
+      "text": "Put them side by side and let the team choose."
+    },
+    {
+      "name": "Finish the winner",
+      "text": "Add the roster and order, or send it to a designer for polish."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Coaches who want several options in front of the team quickly, each one orderable.",
+      "lacks": "A generated design is instant. The uniforms take three to four weeks after approval."
+    },
+    {
+      "id": "boombah",
+      "fit": "Teams that want reversible jerseys and shorts built online by a maker with its own factories.",
+      "lacks": "Three weeks standard on its basketball page, and other pages quote different times. Confirm before you order."
+    },
+    {
+      "id": "customink",
+      "fit": "Small groups that need names and numbers on a stock jersey or reversible tank in about two weeks.",
+      "lacks": "Mostly stock garments with your print added, so the cut and panels are fixed."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs with a team dealer that want cut-and-sew Juice sublimation.",
+      "lacks": "A dealer account places the order. There is no public checkout."
+    },
+    {
+      "id": "niketeam",
+      "fit": "Schools and clubs that want Nike and already work with an authorized dealer.",
+      "lacks": "Build-to-order uniforms take 30, 60 or 90 days."
+    }
+  ],
+  "why": [
+    "A generator is for options, not for a final answer. The useful ones produce three or four distinct uniforms fast, so the team can react to something real.",
+    "Wooter's styles are drawn by designers, which means every generated option is a uniform that can be made. Recolor one, save it, and do it again with a different style.",
+    "When the team picks a direction, either finish it in the builder or pass it to Wooter's designers, who refine it for free."
+  ],
+  "criteria": [
+    {
+      "name": "Options per minute",
+      "text": "How quickly you can produce distinct designs."
+    },
+    {
+      "name": "Makeable output",
+      "text": "Each design is a real uniform, not a picture."
+    },
+    {
+      "name": "Your colors and logo",
+      "text": "Entered once, applied everywhere."
+    },
+    {
+      "name": "Shorts included",
+      "text": "The generator covers the full uniform."
+    },
+    {
+      "name": "Path to an order",
+      "text": "From generated design to checkout."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does the generator use my logo?",
+      "a": "Yes. Upload it once and place it on each style you try."
+    },
+    {
+      "q": "How do I share options with the team?",
+      "a": "Screenshot or save each design, then put them side by side and vote."
+    },
+    {
+      "q": "Can it generate home and away?",
+      "a": "Yes. Make one, then swap the body and trim colors for the other."
+    },
+    {
+      "q": "Is it free?",
+      "a": "Yes. Wooter's builder and design service are free. You pay when you order."
+    },
+    {
+      "q": "What if nothing looks right?",
+      "a": "Send a design request. A designer creates something original and returns it in 1 to 2 business days."
+    }
+  ],
+  "related": [
+    "reversiblebasketballjerseys.com",
+    "basketballpracticejerseys.com",
+    "basketballteamnames.com",
+    "customyouthbasketballjerseys.com",
+    "wholesalebasketballuniforms.com",
+    "jerseydesignideas.com",
+    "cheapcustomjerseys.com"
+  ]
+}

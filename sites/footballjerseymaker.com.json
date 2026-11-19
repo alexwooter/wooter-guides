@@ -1,0 +1,129 @@
+{
+  "domain": "footballjerseymaker.com",
+  "cluster": "football",
+  "template": "bench",
+  "query": "football jersey maker",
+  "site_name": "Football Jersey Maker",
+  "title": "Football Jersey Maker (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "The football jersey maker to use in 2026 is Wooter's builder. Start from a football style, set the body, shoulder and number colors, add your logo, and the jersey and the price update together.",
+    "Champro's maker is good and ends with a dealer. Custom Ink's makes printed and stock sublimated jerseys. Nike Team's is for dealer programs."
+  ],
+  "cta": {
+    "url": "https://wooter.com/search?design_option=wooter_customizer",
+    "text": "Open the jersey maker"
+  },
+  "cta2": {
+    "url": "https://wooter.com/search/football",
+    "text": "Browse football styles"
+  },
+  "steps_title": "Make a football jersey",
+  "steps": [
+    {
+      "name": "Pick a football style",
+      "text": "Choose one close to your idea."
+    },
+    {
+      "name": "Set the body color",
+      "text": "Dark for home, white for away under most rules."
+    },
+    {
+      "name": "Color the numbers",
+      "text": "They must contrast clearly with the body."
+    },
+    {
+      "name": "Add shoulder stripes or a logo",
+      "text": "Keep it to one."
+    },
+    {
+      "name": "Add the roster",
+      "text": "Name, number and size."
+    },
+    {
+      "name": "Approve and order",
+      "text": "Check the proof first."
+    }
+  ],
+  "ranking": [
+    {
+      "id": "wooter",
+      "fit": "Coaches and league organizers who want to make the jersey and see what it costs the same night.",
+      "lacks": "Three to four weeks from approval to delivery."
+    },
+    {
+      "id": "champro",
+      "fit": "Programs with a team dealer that want a fitted, cut-and-sew Juice jersey.",
+      "lacks": "The maker saves a design. A dealer places the order."
+    },
+    {
+      "id": "customink",
+      "fit": "Flag, intramural and club teams that want sublimated or printed jerseys with free shipping.",
+      "lacks": "Its sublimated football styles come from other brands' catalogs, so designs start from their templates."
+    },
+    {
+      "id": "niketeam",
+      "fit": "School programs that want Nike and order a season ahead.",
+      "lacks": "Build-to-order takes 30, 60 or 90 days, and pricing comes from the dealer."
+    }
+  ],
+  "why": [
+    "A football jersey has less room than it looks. The numbers are large by rule, the shoulders are mostly seam, and whatever is left has to carry the team name and logo.",
+    "That is why starting from a finished style helps. Wooter's football styles already leave space for the numbers, so you spend your time on color.",
+    "When the jersey is done, the design moves onto pants, and the roster copies with it."
+  ],
+  "criteria": [
+    {
+      "name": "Number space",
+      "text": "Layouts that fit regulation numbers."
+    },
+    {
+      "name": "Shoulder and sleeve detail",
+      "text": "Stripes and logos where there is room."
+    },
+    {
+      "name": "Price on screen",
+      "text": "A figure to take to the board."
+    },
+    {
+      "name": "Pants",
+      "text": "The uniform completed in the same tool."
+    },
+    {
+      "name": "Checkout",
+      "text": "Order without a dealer."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is the football jersey maker free?",
+      "a": "Yes. Wooter's builder and design service are free. You pay when you order."
+    },
+    {
+      "q": "Can I make tackle and flag jerseys?",
+      "a": "Yes. Wooter lists football, flag football and 7v7 as separate lines."
+    },
+    {
+      "q": "Can it add player names?",
+      "a": "Yes. The roster takes a name and number per player."
+    },
+    {
+      "q": "Can I make matching pants?",
+      "a": "Yes."
+    },
+    {
+      "q": "How long until delivery?",
+      "a": "Three to four weeks after you approve the design at Wooter, with rush production offered."
+    }
+  ],
+  "related": [
+    "footballjerseygenerator.com",
+    "youthfootballpracticejerseys.com",
+    "customyouthfootballjerseys.com",
+    "footballjerseydesign.com",
+    "custommadefootballjerseys.com",
+    "jerseysizechart.com",
+    "randomteamnamegenerator.com"
+  ]
+}

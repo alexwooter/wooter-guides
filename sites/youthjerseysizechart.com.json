@@ -1,0 +1,157 @@
+{
+  "domain": "youthjerseysizechart.com",
+  "cluster": "general",
+  "template": "field",
+  "query": "youth jersey size chart",
+  "site_name": "Youth Jersey Size Chart",
+  "title": "Youth Jersey Size Chart (2026)",
+  "updated": "2026-11-19",
+  "published": "2026-11-19",
+  "verdict": [
+    "A youth jersey size chart runs from extra small to extra large, and the right size depends on the child's measurements, not their age. This page has an example chart, a rough age guide and the steps to measure a child properly.",
+    "Kids grow during a season. When a child is between sizes, go up."
+  ],
+  "cta": {
+    "url": "https://wooterapparel.com/sizing",
+    "text": "See Wooter's size charts"
+  },
+  "sections": [
+    {
+      "h": "Example: youth jersey sizes",
+      "table": {
+        "head": [
+          "Size",
+          "Chest (in)",
+          "Body length (in)",
+          "Sleeve length (in)"
+        ],
+        "rows": [
+          [
+            "Youth XS",
+            "14 to 15",
+            "21.75",
+            "5.75"
+          ],
+          [
+            "Youth S",
+            "16 to 17",
+            "22.75",
+            "6.25"
+          ],
+          [
+            "Youth M",
+            "18 to 19",
+            "23.75",
+            "6.75"
+          ],
+          [
+            "Youth L",
+            "20 to 21",
+            "24.75",
+            "7.25"
+          ],
+          [
+            "Youth XL",
+            "22 to 23",
+            "25.75",
+            "7.75"
+          ]
+        ],
+        "note": "Figures as published in Wooter's baseball jersey sizing guide. Other sports and cuts differ, so use the Size Guide link on the product you are ordering. The youth chest figures read as the width of the jersey laid flat, so double them to compare with a tape measured around the chest."
+      }
+    },
+    {
+      "h": "Rough guide by age",
+      "p": [
+        "Use this only to get in the right area. Children of the same age can be three sizes apart."
+      ],
+      "table": {
+        "head": [
+          "Youth size",
+          "Typical age"
+        ],
+        "rows": [
+          [
+            "YXS",
+            "4 to 6"
+          ],
+          [
+            "YS",
+            "6 to 8"
+          ],
+          [
+            "YM",
+            "8 to 10"
+          ],
+          [
+            "YL",
+            "10 to 12"
+          ],
+          [
+            "YXL",
+            "12 to 14"
+          ]
+        ],
+        "note": "A general guide. It varies by maker and sport."
+      }
+    },
+    {
+      "h": "How to measure a child",
+      "list": [
+        "Chest: wrap the tape around the fullest part of the chest, level all the way round.",
+        "Waist: measure the narrowest part of the torso, above the line of the pants.",
+        "Hips: for women's or longer jerseys, measure the fullest part of the hips.",
+        "Sleeve: from the center back of the neck, over the shoulder and down to the wrist, with the arm bent.",
+        "Keep the tape snug, not tight. You should be able to slide one finger under it."
+      ]
+    },
+    {
+      "h": "Tips for a league order",
+      "list": [
+        "Collect measurements, not ages or T-shirt sizes.",
+        "Have players try on a sizing kit at registration.",
+        "Size up for a long season or a growing child.",
+        "Order two or three spares in YM and YL.",
+        "Tall or broad twelve-year-olds often need an adult small."
+      ]
+    }
+  ],
+  "ranking": [],
+  "pub_title": "Youth sizing at Wooter",
+  "why": [
+    "Wooter lists youth sizes on its jerseys in every sport and sells sizing kits, so a league can have players try on samples before it orders. Its own guide suggests re-measuring youth players every three to six months.",
+    "Order by measurement, add a size for growth, and keep a few spares in the common sizes."
+  ],
+  "criteria": [],
+  "faq": [
+    {
+      "q": "What size is a youth medium jersey?",
+      "a": "It varies by maker. In Wooter's baseball guide a youth medium is 23.75 inches long. A youth medium usually fits ages 8 to 10."
+    },
+    {
+      "q": "What is the difference between youth XL and adult small?",
+      "a": "An adult small is longer and wider in the shoulders. A child at the top of the youth range often fits it better."
+    },
+    {
+      "q": "Should I buy a size up for my child?",
+      "a": "Yes if they are between sizes or the season is long."
+    },
+    {
+      "q": "Are youth sizes the same for boys and girls?",
+      "a": "Most youth jerseys are unisex. Some sports add girls' cuts."
+    },
+    {
+      "q": "How often should we re-measure?",
+      "a": "Every season. Wooter's guide suggests every three to six months for growing players."
+    }
+  ],
+  "related": [
+    "jerseynumberfont.com",
+    "makeyourownjersey.com",
+    "cheapcustomjerseys.com",
+    "customyouthjerseys.com",
+    "sublimationuniforms.com",
+    "randomteamnamegenerator.com",
+    "jerseydesignideas.com"
+  ]
+}
